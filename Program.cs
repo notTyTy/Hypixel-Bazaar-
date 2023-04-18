@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using System.Text.Json;
 using System.Collections.Generic;
 
+
 class Program
 {
     static async Task Main()
@@ -14,28 +15,39 @@ class Program
 
             if (response.IsSuccessStatusCode)
             {
+
                 string content = await response.Content.ReadAsStringAsync();
                     JsonSerializer.Deserialize<bazaar_response>(content);
                     bazaar_response data = JsonSerializer.Deserialize<bazaar_response>(content);
-
-                    Console.Write("Please input a product type: ");
-                    string user_input = Console.ReadLine().ToUpper().Replace(" ", "_");
-                    
-                    
-                    Console.WriteLine(JsonSerializer.Serialize("Current Sell Price: " + data.products[user_input].quick_status.sellPrice));
-                    Console.WriteLine(JsonSerializer.Serialize("Current Sell Volume: " + data.products[user_input].quick_status.sellVolume));
-                    Console.WriteLine(JsonSerializer.Serialize("Current Sell Orders: " + data.products[user_input].quick_status.sellOrders));
-                    Console.WriteLine(JsonSerializer.Serialize("Current Buy Price: " + data.products[user_input].quick_status.buyPrice));
-                    Console.WriteLine(JsonSerializer.Serialize("Current Buy Orders: " + data.products[user_input].quick_status.buyOrders));
-                    // Console.WriteLine(JsonSerializer.Serialize(data.products["ENCHANTED_POTATO"].quick_status));    //user input 
-
+                    bazaar_return(data);
             }
             else
             {
                 Console.WriteLine("API Request failed with status code: " + response.StatusCode);
             }
     }
+    static string user_return()
+    {
+        Console.Write("Please input a product type: "); // User Input
+        string user_input = Console.ReadLine().ToUpper().Replace(" ", "_"); // converts user input to readable JSon format
+        if (user_input == "POTATO" || user_input == "CARROT")
+        { 
+            user_input += "_ITEM";
+        }
+        return user_input;
+    }
+    static void bazaar_return(bazaar_response data)
+    {               
+
+        string user_input = user_return();
+        Console.WriteLine(JsonSerializer.Serialize("Current Sell Price: " + data.products[user_input].quick_status.sellPrice));
+        Console.WriteLine(JsonSerializer.Serialize("Current Sell Volume: " + data.products[user_input].quick_status.sellVolume));
+        Console.WriteLine(JsonSerializer.Serialize("Current Sell Orders: " + data.products[user_input].quick_status.sellOrders));
+        Console.WriteLine(JsonSerializer.Serialize("Current Buy Price: " + data.products[user_input].quick_status.buyPrice));
+        Console.WriteLine(JsonSerializer.Serialize("Current Buy Orders: " + data.products[user_input].quick_status.buyOrders));
+    }
 }
+
 public class bazaar_response{
     public bool success {get; set;}
     public long lastUpdated {get; set;}
