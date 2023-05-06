@@ -1,0 +1,94 @@
+//categories for hypixel item data
+// Farming Internal_name, Display_name
+
+
+Farming
+    Wheat & Seeds
+        WHEAT, Wheat
+        ENCHANTED_BREAD, Enchanted Bread
+        HAY_BLOCK, Hay Bale
+        ENCHANTED_HAY_BLOCK, Enchanted Hay Bale
+        TIGHTLY_TIED_HAY_BALE, Tightly-Tied Hay Bale
+        SEEDS, Seeds
+        ENCHANTED_SEEDS, Enchanted Seeds
+    Carrot
+        CARROT_ITEM, Carrot
+        ENCHANTED_CARROT, Enchanted Carrot
+        ENCHANTED_CARROT_STICK, Enchanted Carrot on a Stick
+        ENCHANTED_GOLDEN_CARROT, Enchanted Golden Carrot
+    Potato
+        POTATO_ITEM, Potato
+        ENCHANTED_POTATO, Enchanted Potato
+        ENCHANTED_BAKED_POTATO, Enchanted Baked Potato
+    Pumpkin
+        PUMPKIN, Pumpkin
+        ENCHANTED_PUMPKIN, Enchanted Pumpkin
+        POLISHED_PUMPKIN, Polished Pumpkin
+    Melon
+        MELON, Melon           
+        ENCHANTED_MELON, Enchanted Melon
+        ENCHANTED_GLISTERING_MELON, Enchanted Glistering Melon
+        MELON_BLOCK, Melon Block
+        Enchanted Melon Block
+    Mushrooms
+        RED_MUSHROOM, Red Mushroom
+        ENCHANTED_RED_MUSHROOM, Enchanted Red Mushroom
+        HUGE_MUSHROOM_2, Red Mushroom Block
+        ENCHANTED_HUGE_MUSHROOM_2, Enchanted Red Mushroom Block
+        BROWN_MUSHROOM, Brown Mushroom
+        ENCHANTED_BROWN_MUSHROOM, Enchanted Brown Mushroom
+        HUGE_MUSHROOM_1, Brown Mushroom Block
+        ENCHANTED_HUGE_MUSHROOM_1, Enchanted Brown Mushroom Block
+    Cocoa Beans  
+        INK_SACK:3, Cocoa Beans
+        ENCHANTED_COCOA, Enchanted Cocoa Beans
+        ENCHANTED_COOKIE, Enchanted Cookie
+    Cactus
+        CACTUS, Cactus
+        ENCHANTED_CACTUS_GREEN, Enchanted Cactus Green
+        ENCHANTED_CACTUS, Enchanted Cactus
+    Sugar Cane
+        SUGAR_CANE, Sugar Cane
+        ENCHANTED_SUGAR Enchanted Sugar
+        ENCHANTED_PAPER, Enchanted Paper
+        ENCHANTED_SUGAR_CANE, Enchanted Sugar Cane
+    Leather & Beef
+        LEATHER, Leather
+        ENCHANTED_LEATHER, Enchanted Leather
+        RAW_BEEF, Raw Beef
+        ENCHANTED_RAW_BEEF, Enchanted Raw Beef
+    Pork
+        PORK, Raw Porkchop
+        ENCHANTED_PORK, Enchanted Pork
+        ENCHANTED_GRILLED_PORK, Enchanted Grilled Pork
+    Chicken & Feather
+        RAW_CHICKEN, Raw Chicken
+        ENCHANTED_RAW_CHICKEN, Enchanted Raw Chicken
+        ENCHANTED_CAKE, Enchanted Cake
+        FEATHER, Feather
+        ENCHANTED_FEATHER, Enchanted Feather
+        ENCHANTED_EGG, Enchanted Egg
+        SUPER_EGG, Super Enchanted Egg
+        OMEGA_EGG, Omega Enchanted Egg
+    Mutton
+        MUTTON, Mutton
+        ENCHANTED_MUTTON, Enchanted Mutton
+        ENCHANTED_COOKED_MUTTON, Enchanted Cooked Mutton
+    Rabbit
+        RABBIT, Raw Rabbit
+        ENCHANTED_RABBIT, Enchanted Raw Rabbit
+        RABBIT_FOOT, Rabbit's Foot
+        RABBIT_HIDE, Rabbit Hide
+        ENCHANTED_RABBIT_FOOT, Enchanted Rabbit Foot
+        ENCHANTED_RABBIT_HIDE, Enchanted Rabbit Hide
+    Nether Warts
+        NETHER_STALK, Nether Wart
+        ENCHANTED_NETHER_STALK, Enchanted Nether Wart
+        MUTANT_NETHER_STALK, Mutant Nether Wart
+    Mycelium
+        MYCEL, Mycelium
+        ENCHANTED_MYCELIUM, Enchanted Mycelium
+        ENCHANTED_MYCELIUM_CUBE, Enchanted Mycelium Cube
+    
+
+
