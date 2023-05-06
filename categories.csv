@@ -89,6 +89,134 @@ Farming
         MYCEL, Mycelium
         ENCHANTED_MYCELIUM, Enchanted Mycelium
         ENCHANTED_MYCELIUM_CUBE, Enchanted Mycelium Cube
-    
+Mining
+    Cobblestone
+        COBBLESTONE, Cobblestone
+        ENCHANTED_COBBLESTONE, Enchanted Cobblestone
+    Coal
+        COAL, Coal
+        ENCHANTED_COAL, Enchanted Coal
+        ENCHANTED_CHARCOAL, Enchanted Charcoal
+        ENCHANTED_COAL_BLOCK, Enchanted Block of Coal
+    Iron
+        IRON_INGOT, Iron Ingot
+        ENCHANTED_IRON, Enchanted Iron
+        ENCHANTED_IRON_BLOCK, Enchanted Iron Block
+    Gold
+        GOLD_INGOT, Gold Ingot
+        ENCHANTED_GOLD, Enchanted Gold
+        ENCHANTED_GOLD_BLOCK, Enchanted Gold Block
+    Diamond
+        DIAMOND, Diamond
+        ENCHANTED_DIAMOND, Enchanted Diamond
+        ENCHANTED_DIAMOND_BLOCK, Enchanted Diamond Block
+        REFINED_DIAMOND, Refined Diamond
+    Lapis
+        INK_SACK:4, Lapis Lazuli
+        ENCHANTED_LAPIS_LAZULI, Enchanted Lapis Lazuli
+        ENCHANTED_LAPIS_LAZULI_BLOCK, Enchanted Lapis Block
+    Gemstones
+        ROUGH_JADE_GEM, Rough Jade Gemstone
+        ROUGH_AMBER_GEM, Rough Amber Gemstone
+        ROUGH_TOPAZ_GEM, Rough Topaz Gemstone
+        ROUGH_SAPPHIRE_GEM, Rough Sapphire Gemstone
+        ROUGH_AMETHYST_GEM, Rough Amethyst Gemstone
+        ROUGH_JASPER_GEM, Rough Jasper Gemstone
+        ROUGH_RUBY_GEM, Rough Ruby Gemstone
+        ROUGH_OPAL_GEM, Rough Opal Gemstone
+        FLAWED_JADE_GEM, Flawed Jade Gemstone
+        FLAWED_AMBER_GEM, Flawed Amber Gemstone
+        FLAWED_TOPAZ_GEM, Flawed Topaz Gemstone
+        FLAWED_SAPPHIRE_GEM, Flawed Sapphire Gemstone
+        FLAWED_AMETHYST_GEM, Flawed Amethyst Gemstone
+        FLAWED_JASPER_GEM, Flawed Jasper Gemstone
+        FLAWED_RUBY_GEM, Flawed Ruby Gemstone
+        FLAWED_OPAL_GEM, Flawed Opal Gemstone
+        FINE_JADE_GEM, Fine Jade Gemstone
+        FINE_AMBER_GEM, Fine Amber Gemstone
+        FINE_TOPAZ_GEM, Fine Topaz Gemstone
+        FINE_SAPPHIRE_GEM, Fine Sapphire Gemstone
+        FINE_AMETHYST_GEM, Fine Amethyst Gemstone
+        FINE_JASPER_GEM, Fine Jasper Gemstone
+        FINE_RUBY_GEM, Fine Ruby Gemstone
+        FINE_OPAL_GEM, Fine Opal Gemstone 
+        FLAWLESS_JADE_GEM, Flawless Jade Gemstone
+        FLAWLESS_AMBER_GEM, Flawless Amber Gemstone
+        FLAWLESS_TOPAZ_GEM, Flawless Topaz Gemstone
+        FLAWLESS_SAPPHIRE_GEM, Flawless Sapphire Gemstone
+        FLAWLESS_AMETHYST_GEM, Flawless Amethyst Gemstone
+        FLAWLESS_JASPER_GEM, Flawless Jasper Gemstone
+        FLAWLESS_RUBY_GEM, Flawless Ruby Gemstone
+        FLAWLESS_OPAL_GEM, Flawless Opal Gemstone
+        PERFECT_JADE_GEM, Perfect Jade Gemstone
+        PERFECT_AMBER_GEM, Perfect Amber Gemstone
+        PERFECT_TOPAZ_GEM, Perfect Topaz Gemstone
+        PERFECT_SAPPHIRE_GEM, Perfect Sapphire Gemstone
+        PERFECT_AMETHYST_GEM, Perfect Amethyst Gemstone
+        PERFECT_JASPER_GEM, Perfect Jasper Gemstone
+        PERFECT_RUBY_GEM, Perfect Ruby Gemstone
+        PERFECT_OPAL_GEM, Perfect Opal Gemstone
+    Emerald
+        EMERALD, Emerald
+        ENCHANTED_EMERALD, Enchanted Emerald
+        ENCHANTED_EMERALD_BLOCK, Enchanted Emerald Block
+    Redstone
+        REDSTONE, Redstone
+        ENCHANTED_REDSTONE, Enchanted Redstone
+        ENCHANTED_REDSTONE_BLOCK, Enchanted Redstone Block
+    Quartz
+        QUARTZ, Nether Quartz
+        ENCHANTED_QUARTZ, Enchanted Quartz
+        ENCHANTED_QUARTZ_BLOCK, Enchanted Quartz Block
+    Obsidian
+        OBSIDIAN, Obsidian
+        ENCHANTED_OBSIDIAN, Enchanted Obsidian
+    Glowstone
+        GLOWSTONE_DUST, Glowstone Dust
+        ENCHANTED_GLOWSTONE_DUST, Enchanted Glowstone Dust
+        ENCHANTED_GLOWSTONE, Enchanted Glowstone
+        ENCHANTED_REDSTONE_LAMP, Enchanted Redstone Lamp
+    Flint & Gravel
+        FLINT, Flint
+        ENCHANTED_FLINT, Enchanted Flint
+        GRAVEL, Gravel
+    Hard Stone
+        HARD_STONE, Hard Stone
+        ENCHANTED_HARD_STONE, Enchanted Hard Stone
+        CONCENTRATED_STONE, Concentrated Stone
+    Ice
+        ICE, Ice
+        PACKED_ICE, Packed Ice
+        ENCHANTED_ICE, Enchanted Ice
+        ENCHANTED_PACKED_ICE, Enchanted Packed Ice
+        GLACIAL_FRAGMENT, Glacial Fragment
+    Netherrack
+        NETHERRACK, Netherrack
+        ENCHANTED_NETHERRACK, Enchanted Netherrack
+    Sand
+        SAND, Sand
+        ENCHANTED_SAND, Enchanted Sand
+        SAND:1, Red Sand
+        ENCHANTED_RED_SAND, Enchanted Red Sand
+        ENCHANTED_RED_SAND_CUBE, Enchanted Red Sand Cube
+    End Stone
+        ENDER_STONE, End Stone
+        ENCHANTED_ENDSTONE, Enchanted End Stone
+    Snow
+        SNOW_BALL, Snowball
+        SNOW_BLOCK, Snow Block
+        ENCHANTED_SNOW_BLOCK, Enchanted Snow Block
+    Dwarven Materials
+        MITHRIL_ORE, Mithril
+        ENCHANTED_MITHRIL, Enchanted Mithril
+        REFINED_MITHRIL, Refined Mithril
+        STARFALL, Starfall
+        TITANIUM_ORE, Titanium
+        ENCHANTED_TITANIUM, Enchanted Titanium
+        REFINED_TITANIUM, Refined Titanium
+        TREASURITE, Treasurite
+
+
+
 
 
