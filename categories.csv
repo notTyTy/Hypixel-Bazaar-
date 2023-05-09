@@ -137,17 +137,7 @@ Mining
         FINE_TOPAZ_GEM, Fine Topaz Gemstone
         FINE_SAPPHIRE_GEM, Fine Sapphire Gemstone
         FINE_AMETHYST_GEM, Fine Amethyst Gemstone
-        FINE_JASPER_GEM, Fine Jasper Gemstone
-        FINE_RUBY_GEM, Fine Ruby Gemstone
-        FINE_OPAL_GEM, Fine Opal Gemstone 
-        FLAWLESS_JADE_GEM, Flawless Jade Gemstone
-        FLAWLESS_AMBER_GEM, Flawless Amber Gemstone
-        FLAWLESS_TOPAZ_GEM, Flawless Topaz Gemstone
-        FLAWLESS_SAPPHIRE_GEM, Flawless Sapphire Gemstone
-        FLAWLESS_AMETHYST_GEM, Flawless Amethyst Gemstone
-        FLAWLESS_JASPER_GEM, Flawless Jasper Gemstone
-        FLAWLESS_RUBY_GEM, Flawless Ruby Gemstone
-        FLAWLESS_OPAL_GEM, Flawless Opal Gemstone
+        FINE_JASPER_GEM, Fine Opal Gemstone
         PERFECT_JADE_GEM, Perfect Jade Gemstone
         PERFECT_AMBER_GEM, Perfect Amber Gemstone
         PERFECT_TOPAZ_GEM, Perfect Topaz Gemstone
@@ -215,6 +205,765 @@ Mining
         ENCHANTED_TITANIUM, Enchanted Titanium
         REFINED_TITANIUM, Refined Titanium
         TREASURITE, Treasurite
+Combat
+    Rotten Flesh
+        ROTTEN_FLESH, Rotten Flesh
+        ENCHANTED_ROTTEN_FLESH, Enchanted Rotten Flesh
+    Bone
+        BONE, Bone
+        ENCHANTED_BONE, Enchanted Bone
+        ENCHANTED_BONE_BLOCK, Enchanted Bone Block
+    Arachnids
+        STRING, String
+        ENCHANTED_STRING, Enchanted String
+        SPIDER_EYE, Spider Eye
+        ENCHANTED_SPIDER_EYE, Enchanted Spider Eye
+        ENCHANTED_FERMENTED_SPIDER_EYE, Enchanted Fermented Spider Eye
+        SOUL_STRING, Soul String
+        ARACHNE_KEEPER_FRAGMENT, Arachne's Calling
+    Gunpowder
+        Gunpowder
+        Enchanted Gunpowder
+        Enchanted Firework Rocket
+    Ender Pearl
+        Ender Pearl
+        Enchanted Ender Pearl
+        Enchanted Eye of Ender
+        Absolute Ender Pearl
+    Ghast Tear
+        Ghast Tear
+        Enchanted Ghast Tear
+    Slime Drops
+        Slimeball
+        Enchanted Slimeball
+        Enchanted Slime Block
+        Magma Cream
+        Enchanted Magman Cream
+        Sludge Juice
+        Yoggie
+    Blaze Rod
+        Blaze Rod
+        Enchanted Blaze Powder
+        Enchanted Blaze Rod
+    Mythological
+        Griffin Feather
+        Daedalus Stick
+        Ancient Claw
+        Enchanted Ancient Claw
+    Revenant Horror
+        Revenant Flesh
+        Revenant Viscera
+    Tarantula Broodfather
+        Tarantula Web
+        Tarantula Silk
+    Sven Packmaster
+        Wolf Tooth
+        Golden Tooth
+    Voidgloom Seraph
+        Null Sphere
+        Null Ovoid
+        Null Atom
+        Raw Soulflow
+        Soulflow
+    Inferno Demonlord
+        Derelict Ashe
+        Amalgamated Crimsonite
+        Molten Powder
+        Blade Rod Distillate
+        Gabagool Distillate
+        Glowstone Distillate
+        Magama Cream Distillate
+        Nether Wart Distillate
+        Crude Gabagool
+        Fuel Gabagool
+        Heavy Gabagool
+        Hypergolic Gabagool
+        Chili Pepper
+        Inferno Vertex
+        Inferno Apex
+        Reaper Pepper
+    Goblin Eggs
+        Goblin Egg
+        Red Goblin Egg
+        Blue Goblin Egg
+        Yellow Goblin Egg
+        Green Goblin Egg
+Woods & Fishes
+    Oak
+        Oak Wood
+        Enchanted Oak Wood
+    Spruce
+        Spruce Wood
+        Enchanted Spruce Wood
+    Birch
+        Birch Wood
+        Enchanted Spruce Wood
+    Dark Oak
+        Dark Oak Wood
+        Enchanted Dark Oak Wood
+    Acacia
+        Acacia Wood
+        Enchanted Acacia Wood
+    Jungle
+        Jungle Wood
+        Enchanted Jungle Wood
+    Raw Fish
+        Raw Fish
+        Enchanted Raw Fish
+        Enchanted Cooked Fish
+    Salmon
+        Raw Salmon
+        Enchanted Raw Salmon
+        Enchanted Cooked Salmon
+    Clownfish
+        Clownfish
+        Enchanted Clownfish
+    Pufferfish
+        Pufferfish
+        Enchanted Pufferfish
+    Prismarine
+        Prismarine Shard
+        Enchanted Prismarine Shard
+        Prismarine Crystals
+        Enchanted Prismarine Crystals
+    Clay
+        Clay
+        Enchanted Clay
+    Sponge
+        Sponge
+        Enchanted Sponge
+        Enchanted Wet Sponge
+    Baits
+        Carrot Bait
+        Minnow Bait
+        Fish Bait
+        Light Bait
+        Dark Bait
+        Spooky Bait
+        Spiked Bait
+        Blessed Bait
+        Ice Bait
+        Whale Bait
+        Shark Bait
+        Corrupted Bait
+        Hot Bait
+    Fishing Festival Items
+        Nurse Shark Tooth
+        Blue Shark Tooth
+        Tiger Shark Tooth
+        Great White Shark Tooth
+        Shark Fin
+        Enchanted Shark Fin
+    Mob Drops
+        Lily Pad
+        Enchanted Lily Pad
+        Worm Membrane
+        Ink Sac
+        Enchanted Ink Sac
+    Magmafish
+        Magmafish
+        Silver Magmafish
+        Gold Magmafish
+        Diamond Magamafish
+Oddities
+    Booster Cookie
+        Booster Cookie
+    Book Modifiers
+        Hot Potato Book
+        Fuming Potato Book
+        Book of Stats
+        The Art of War
+        Farming for Dummies
+    Compactor
+        Compactor
+        Dwarven Super Compactor
+        Super Compactor 3000
+    Draconic Sacrifice
+        Ritual Residue
+        Mite Gel
+    Summoning Eye
+        Summoning Eye
+    Dragon Fragments
+        Protector Dragon Fragment
+        Old Dragon Fragment
+        Unstable Dragon Fragment
+        Strong Dragon Fragment
+        Young Dragon Fragment
+        Wise Dragon Fragment
+        Superior Dragon Fragment
+        Holy Dragon Fragment
+    Fuels
+        Enchanted Lava Bucket
+        Magma Bucket
+        Plasma Bucket
+        Hamster Wheel
+        Foul Flesh
+        Tasty Cheese
+        Catalyst
+        Hyper Catalyst
+        Power Crystal
+    Spooky
+        Green Candy
+        Purple Candy
+        Ectoplasm
+        Pumpkin Guts
+        Spooky Shard
+        Werewolf Skin
+        Soul Fragment
+    Gifts
+        White Gift
+        Green Gift
+        Red Gift
+    Jerry Boxes
+        Green Jerry Box
+        Blue Jerry Box
+        Purple Jerry Box
+        Golden Jerry Box
+    Refined Material
+        Refined Material
+    Recombobulator
+        Recombobulator
+    Jacob's Ticket
+        Jacob's Ticket
+    EXP Bottles
+        Experience Bottle
+        Grand Experience Bottle
+        Titanic Experience Bottle
+        Colossal Experience Bottle
+    Low Reforge Stones
+        Hardened Wood
+        Rock Gemstone
+        Rare Diamond
+        Jerry stone
+        Red Nose
+        Shiny Prism
+        Spirit Stone
+        Candy Corn
+        Searing Stone
+        Lapis Crystal
+        Red Scarf
+        Optical Lens
+        Warped Stone
+        Jaderald
+        Dragon Claw
+        Blaze Wax
+        Necromancer's Brooch
+        Salmon Opal
+        Premium Flesh
+        Suspicious Vial
+        Meteor Shard
+        Midas Jewel
+        Diamond Atom
+        Onyx
+        End Stone Geode
+        Molten Cube
+        Diamonite
+        Dragon Scale
+        Pure Mithril
+        Salt Cube
+        Rusty Anchor
+    High Reforge Stones
+        Amber Material
+        Precursor Gear
+        Wither Blood
+        Deep Sea Orb
+        Bulky Stone
+        Kuudra Mandible
+        Sadan's Brooch
+        Blessed Fruit
+        Petrified Starfall
+        Giant Tooth
+        Dragon Horn
+        Refined Amber
+        Lucky Dice
+        Golden Ball
+        Hot Stuff
+    Power Stones
+        Luxurious Spool
+        Rock Candy
+        End Stone Shulker
+        Obsidian Tablet
+        Dark Orb
+        Furball
+        Ender Monocle
+        Acacia Birdhouse
+        Beating Heart
+        Mandraa
+        Magma Urchin
+        Horns of Torment
+        Precious Pearl
+        Eccentric Painting
+        Hazmat Enderman
+        Vitamin Death
+        Scorched Books
+Oddities - Enchanted Books
+    Angler VI
+        Angler VI
+    Bane Of Arthropods VI-VII
+        Bane Of Arthropods VI
+        Bane Of Arthropods VII
+    Big Brain III-V
+        Big Brain
+        Big Brain
+        Big Brain
+    Blast Protection VI-VII
+        Blast Protection
+        Blast Protection
+    Blessing VI
+        Blessing
+    Caster VI
+        Caster
+    Cayenne I-V
+        Cayenne
+        Cayenne
+        Cayenne
+        Cayenne
+        Cayenne
+    Champion I-X
+        Champion
+        Champion
+        Champion
+        Champion
+        Champion
+        Champion
+        Champion
+        Champion
+        Champion
+        Champion
+    Chance IV-V
+        Chance
+        Chance
+    Charm I-V
+        Charm
+        Charm
+        Charm
+        Charm
+        Charm
+    Cleave VI
+        Cleave
+    Compact I
+        Compact
+    Corruption I-V
+        Corruption
+        Corruption
+        Corruption
+        Corruption
+        Corruption
+    Counter-Strike III-V
+        Counter-Strike
+        Counter-Strike
+        Counter-Strike
+    Critical VI-VII
+        Critical
+        Critical
+    Cubism VI
+        Cubism
+    Cultivating I
+        Cultivating
+    Delicate V
+        Delicate
+    Dragon Hunter I-V
+        Dragon Hunter
+        Dragon Hunter
+        Dragon Hunter
+        Dragon Hunter
+        Dragon Hunter
+    Ender Slayer VI-VII
+        Ender Slayer
+        Ender Slayer
+    Execute VI
+        Execute
+    Experience IV-V
+        Experience
+        Experience
+    Expertise I
+        Expertise
+    Feather Falling VI-X
+        Feather Falling
+        Feather Falling
+        Feather Falling
+        Feather Falling
+        Feather Falling
+    Ferocious Mana I-X
+        Ferocious Mana
+        Ferocious Mana
+        Ferocious Mana
+        Ferocious Mana
+        Ferocious Mana
+        Ferocious Mana
+        Ferocious Mana
+        Ferocious Mana
+        Ferocious Mana
+        Ferocious Mana
+    Fire Aspect III
+        Fire Aspect
+    Fire Protection VI-VII
+        Fire Protection
+        Fire Protection
+    First Strike V
+        First Strike
+    Fortune IV
+        Fortune
+    Frail VI
+        Frail
+    Giant Killer VI-VII
+        Giant Killer
+        Giant Killer
+    Growth VI-VII
+        Growth
+        Growth
+    Hardened Mana I-X
+        Hardened Mana
+        Hardened Mana
+        Hardened Mana
+        Hardened Mana
+        Hardened Mana
+        Hardened Mana
+        Hardened Mana
+        Hardened Mana
+        Hardened Mana
+        Hardened Mana
+    Harvesting VI
+        Harvesting
+    Hecatomb I-X
+        Hecatomb
+        Hecatomb
+        Hecatomb
+        Hecatomb
+        Hecatomb
+        Hecatomb
+        Hecatomb
+        Hecatomb
+        Hecatomb
+        Hecatomb
+    Infinite Quiver VI-X
+        Infinite Quiver
+        Infinite Quiver
+        Infinite Quiver
+        Infinite Quiver
+        Infinite Quiver
+    Lethality VI
+        Lethality
+    Life Steal IV-V
+        Life Steal
+        Life Steal
+    Looting IV-V
+        Looting
+        Looting
+    Luck VI-VII
+        Luck
+        Luck
+    Luck of the Sea VI
+        Luck of the Sea
+    Lure VI
+        Lure
+    Magnet VI
+        Magnet
+    Mana Steal I-III
+        Mana Steal
+        Mana Steal
+        Mana Steal
+    Mana Vampire I-X
+        Mana Vampire
+        Mana Vampire
+        Mana Vampire
+        Mana Vampire
+        Mana Vampire
+        Mana Vampire
+        Mana Vampire
+        Mana Vampire
+        Mana Vampire
+        Mana Vampire
+    Overload I-V
+        Overload
+        Overload
+        Overload
+        Overload
+        Overload
+    Power VI-VII
+        Power
+        Power
+    Pristine I-V
+        Pristine
+        Pristine
+        Pristine
+        Pristine
+        Pristine
+    Projectile Protection VI-VII
+        Projectile Protection
+        Projectile Protection
+    Prosecute VI
+        Prosecute
+    Prosperity I-V
+        Prosperity
+        Prosperity
+        Prosperity
+        Prosperity
+        Prosperity
+    Protection VI-VII
+        Protection
+        Protection
+    Rejuvenate I-V
+        Rejuvenate
+        Rejuvenate
+        Rejuvenate
+        Rejuvenate
+        Rejuvenate
+    Replenish I
+        Replenish
+    Respite I-V
+        Respite
+        Respite
+        Respite
+        Respite
+        Respite
+    Scavenger IV-V
+        Scavenger
+        Scavenger
+    Sharpness VI-VII
+        Sharpness
+        Sharpness
+    Smarty Pants I-V
+        Smarty Pants
+        Smarty Pants
+        Smarty Pants
+        Smarty Pants
+        Smarty Pants
+    Smite VI-VII
+        Smite
+        Smite
+    Smoldering I-V
+        Smoldering
+        Smoldering
+        Smoldering
+        Smoldering
+        Smoldering
+    Snipe IV
+        Snipe
+    Spiked Hook VI
+        Spiked Hook
+    Strong Mana I-X
+        Strong Mana
+        Strong Mana
+        Strong Mana
+        Strong Mana
+        Strong Mana
+        Strong Mana
+        Strong Mana
+        Strong Mana
+        Strong Mana
+        Strong Mana
+    Sugar Rush I-III
+        Sugar Rush
+        Sugar Rush
+        Sugar Rush
+    Syphon IV-V
+        Syphon
+        Syphon
+    Tobasco I-III
+        Tobasco
+        Tobasco
+        Tobasco
+    Thunderbolt VI
+        Thunderbolt
+    Thunderlord VI-VII
+        Thunderlord
+        Thunderlord
+    Titan Killer V
+        Titan Killer
+    Triple Strike V
+        Triple Strike
+    True Protection I
+        True Protection
+    Turbo Cacti I-V
+        Turbo Cacti
+        Turbo Cacti
+        Turbo Cacti
+        Turbo Cacti
+        Turbo Cacti
+    Turbo Cane I-V
+        Turbo Cane
+        Turbo Cane
+        Turbo Cane
+        Turbo Cane
+        Turbo Cane
+    Turbo Carrot I-V
+        Turbo Carrot
+        Turbo Carrot
+        Turbo Carrot
+        Turbo Carrot
+        Turbo Carrot
+    Turbo Cocoa I-V
+        Turbo Cocoa
+        Turbo Cocoa
+        Turbo Cocoa
+        Turbo Cocoa
+        Turbo Cocoa
+    Turbo Melon I-V
+        Turbo Melon
+        Turbo Melon
+        Turbo Melon
+        Turbo Melon
+        Turbo Melon
+    Turbo Mushrooms I-V
+        Turbo Mushrooms
+        Turbo Mushrooms
+        Turbo Mushrooms
+        Turbo Mushrooms
+        Turbo Mushrooms
+    Turbo Potato I-V
+        Turbo Potato
+        Turbo Potato
+        Turbo Potato
+        Turbo Potato
+        Turbo Potato
+    Turbo Pumpkin I-V
+        Turbo Pumpkin
+        Turbo Pumpkin
+        Turbo Pumpkin
+        Turbo Pumpkin
+        Turbo Pumpkin
+    Turbo Warts I-V
+        Turbo Warts
+        Turbo Warts
+        Turbo Warts
+        Turbo Warts
+        Turbo Warts
+    Turbo Wheat I-V
+        Turbo Wheat
+        Turbo Wheat
+        Turbo Wheat
+        Turbo Wheat
+        Turbo Wheat
+    Vampirism VI
+        Vampirism
+    Venomous VI
+        Venomous
+    Vicious III-V
+        Vicious
+        Vicious
+        Vicious
+Oddities - Ultimate Enchantments
+    Bank I-V
+        Bank
+        Bank
+        Bank
+        Bank
+        Bank
+    Chimera I-V
+        Chimera
+        Chimera
+        Chimera
+        Chimera
+        Chimera
+    Combo I-V
+        Combo
+        Combo
+        Combo
+        Combo
+        Combo
+    Duplex I-V
+        Duplex
+        Duplex
+        Duplex
+        Duplex
+        Duplex
+    Fatal Tempo I-V
+        Fatal Tempo
+        Fatal Tempo
+        Fatal Tempo
+        Fatal Tempo
+        Fatal Tempo
+    Flash I-V
+        Flash
+        Flash
+        Flash
+        Flash
+        Flash
+    Habanero Tactics I-V
+        Habanero Tactics
+        Habanero Tactics
+        Habanero Tactics
+        Habanero Tactics
+        Habanero Tactics
+    Inferno I-V
+        Inferno
+        Inferno
+        Inferno
+        Inferno
+        Inferno
+    Ultimate Jerry I-V
+        Ultimate Jerry
+        Ultimate Jerry
+        Ultimate Jerry
+        Ultimate Jerry
+        Ultimate Jerry
+    Last Stand I-V
+        Last Stand
+        Last Stand
+        Last Stand
+        Last Stand
+        Last Stand
+    Legion I-V
+        Legion
+        Legion
+        Legion
+        Legion
+        Legion
+    No Pain No Gain I-V
+        No Pain No Gain
+        No Pain No Gain
+        No Pain No Gain
+        No Pain No Gain
+        No Pain No Gain
+    One For All I
+        One For All
+    Rend I-V
+        Rend
+        Rend
+        Rend
+        Rend
+        Rend
+    Soul Eater I-V
+        Soul Eater
+        Soul Eater
+        Soul Eater
+        Soul Eater
+        Soul Eater
+    Swarm I-V
+        Swarm
+        Swarm
+        Swarm
+        Swarm
+        Swarm
+    Wisdom I-V
+        Wisdom
+        Wisdom
+        Wisdom
+        Wisdom
+        Wisdom
+    Ultimate Wise I-V
+        Ultimate Wise
+        Ultimate Wise
+        Ultimate Wise
+        Ultimate Wise
+        Ultimate Wise
+Essence
+    Wither Essence
+    Spider Essence
+    Undead Essence
+    Dragon Essence
+    Gold Essence
+    Diamond Essence
+    Ice Essence
+    Crimson Essence
+
+
+//End of Bazaar Items - version 0.15
+
+                
+
+
 
 
 
