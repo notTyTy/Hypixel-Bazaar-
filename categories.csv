@@ -1,13 +1,16 @@
 // Structured Hypixel item data - based wholly on the Hypixel Bazaar v0.15
     // VALUE, KEY
-        // Referenced as Internal_name, Display_name within Program.cs
-    // Category->Sub-Category->Item
+    // Referenced as Internal_name, Display_name within Program.cs
+// Category->Sub-Category->Item
 
-// Farming - Done
-// Mining - Done
-// Combat - Done
-// Woods & Fishes - Done
-// Oddities - Done
+// Categories Completed :3
+    // Farming - Done
+    // Mining - Done
+    // Combat - Done
+    // Woods & Fishes - Done
+    // Oddities - Done
+    // Oddities - Enchanted Books - Done
+    // Oddities - Ultimate Enchantments - Done
 
 
 Farming
@@ -33,11 +36,11 @@ Farming
         ENCHANTED_PUMPKIN, Enchanted Pumpkin
         POLISHED_PUMPKIN, Polished Pumpkin
     Melon
-        MELON, Melon           
+        MELON, Melon
         ENCHANTED_MELON, Enchanted Melon
         ENCHANTED_GLISTERING_MELON, Enchanted Glistering Melon
         MELON_BLOCK, Melon Block
-        Enchanted Melon Block
+        ENCHANTED_MELON_BLOCK, Enchanted Melon Block
     Mushrooms
         RED_MUSHROOM, Red Mushroom
         ENCHANTED_RED_MUSHROOM, Enchanted Red Mushroom
@@ -232,7 +235,7 @@ Combat
     Gunpowder
         SULPHUR, Gunpowder
         ENCHANTED_GUNPOWDER, Enchanted Gunpowder
-        ENCHANTED_FIREWORK_ROCKET, Enchanted Firework ROCK_GEMSTONE, et
+        ENCHANTED_FIREWORK_ROCKET, Enchanted Firework
     Ender Pearl
         ENDER_PEARL, Ender Pearl
         ENCHANTED_ENDER_PEARL, Enchanted Ender Pearl
@@ -574,367 +577,364 @@ Oddities - Enchanted Books
         ENCHANTMENT_CRITICAL_6, Critical VI
         ENCHANTMENT_CRITICAL_7, Critical VII
     Cubism VI
-        Cubism
+        ENCHANTMENT_CUBISM_6, Cubism VI
     Cultivating I
-        Cultivating
+        ENCHANTMENT_CULTIVATING_1, Cultivating I
     Delicate V
-        Delicate
+        ENCHANTMENT_DELICATE_5, Delicate V
     Dragon Hunter I-V
-        Dragon Hunter
-        Dragon Hunter
-        Dragon Hunter
-        Dragon Hunter
-        Dragon Hunter
+        ENCHANTMENT_DRAGON_HUNTER_1, Dragon Hunter I
+        ENCHANTMENT_DRAGON_HUNTER_2, Dragon Hunter II
+        ENCHANTMENT_DRAGON_HUNTER_3, Dragon Hunter III
+        ENCHANTMENT_DRAGON_HUNTER_4, Dragon Hunter IV
+        ENCHANTMENT_DRAGON_HUNTER_5, Dragon Hunter V
     Ender Slayer VI-VII
-        Ender Slayer
-        Ender Slayer
+        ENCHANTMENT_ENDER_SLAYER_6, Ender Slayer VI
+        ENCHANTMENT_ENDER_SLAYER_7, Ender Slayer VII
     Execute VI
-        Execute
+        ENCHANTMENT_EXECUTE_6, Execute VI
     Experience IV-V
-        Experience
-        Experience
+        ENCHANTMENT_EXPERIENCE_4, Experience IV
+        ENCHANTMENT_EXPERIENCE_5, Experience V
     Expertise I
-        Expertise
+        ENCHANTMENT_EXPERTISE_1, Expertise I
     Feather Falling VI-X
-        Feather Falling
-        Feather Falling
-        Feather Falling
-        Feather Falling
-        Feather Falling
+        ENCHANTMENT_FEATHER_FALLING_6, Feather Falling VI
+        ENCHANTMENT_FEATHER_FALLING_7, Feather Falling VII
+        ENCHANTMENT_FEATHER_FALLING_8, Feather Falling VIII
+        ENCHANTMENT_FEATHER_FALLING_9, Feather Falling IX
+        ENCHANTMENT_FEATHER_FALLING_10, Feather Falling X
     Ferocious Mana I-X
-        Ferocious Mana
-        Ferocious Mana
-        Ferocious Mana
-        Ferocious Mana
-        Ferocious Mana
-        Ferocious Mana
-        Ferocious Mana
-        Ferocious Mana
-        Ferocious Mana
-        Ferocious Mana
+        ENCHANTMENT_FEROCIOUS_MANA_1, Ferocious Mana I
+        ENCHANTMENT_FEROCIOUS_MANA_2, Ferocious Mana II
+        ENCHANTMENT_FEROCIOUS_MANA_3, Ferocious Mana III
+        ENCHANTMENT_FEROCIOUS_MANA_4, Ferocious Mana IV
+        ENCHANTMENT_FEROCIOUS_MANA_5, Ferocious Mana V
+        ENCHANTMENT_FEROCIOUS_MANA_6, Ferocious Mana VI
+        ENCHANTMENT_FEROCIOUS_MANA_7, Ferocious Mana VII
+        ENCHANTMENT_FEROCIOUS_MANA_8, Ferocious Mana VIII
+        ENCHANTMENT_FEROCIOUS_MANA_9, Ferocious Mana IX
+        ENCHANTMENT_FEROCIOUS_MANA_10, Ferocious Mana X
     Fire Aspect III
-        Fire Aspect
+        ENCHANTMENT_FIRE_ASPECT_3, Fire Aspect III
     Fire Protection VI-VII
-        Fire Protection
-        Fire Protection
+        ENCHANTMENT_FIRE_PROTECTION_6, Fire Protection VI
+        ENCHANTMENT_FIRE_PROTECTION_7, Fire Protection VII
     First Strike V
-        First Strike
+        ENCHANTMENT_FIRST_STRIKE_5, First Strike V
     Fortune IV
-        Fortune
+        ENCHANTMENT_FORTUNE_4, Fortune IV
     Frail VI
-        Frail
+        ENCHANTMENT_FRAIL_6, Frail VI
     Giant Killer VI-VII
-        Giant Killer
-        Giant Killer
+        ENCHANTMENT_GIANT_KILLER_6, Giant Killer VI
+        ENCHANTMENT_GIANT_KILLER_7, Giant Killer VII
     Growth VI-VII
-        Growth
-        Growth
+        ENCHANTMENT_GROWTH_6, Growth VI
+        ENCHANTMENT_GROWTH_7, Growth VII
     Hardened Mana I-X
-        Hardened Mana
-        Hardened Mana
-        Hardened Mana
-        Hardened Mana
-        Hardened Mana
-        Hardened Mana
-        Hardened Mana
-        Hardened Mana
-        Hardened Mana
-        Hardened Mana
+        ENCHANTMENT_HARDENED_MANA_1, Hardened Mana I
+        ENCHANTMENT_HARDENED_MANA_2, Hardened Mana II
+        ENCHANTMENT_HARDENED_MANA_3, Hardened Mana III
+        ENCHANTMENT_HARDENED_MANA_4, Hardened Mana IV
+        ENCHANTMENT_HARDENED_MANA_5, Hardened Mana V
+        ENCHANTMENT_HARDENED_MANA_6, Hardened Mana VI
+        ENCHANTMENT_HARDENED_MANA_7, Hardened Mana VII
+        ENCHANTMENT_HARDENED_MANA_8, Hardened Mana VIII
+        ENCHANTMENT_HARDENED_MANA_9, Hardened Mana IX
+        ENCHANTMENT_HARDENED_MANA_10, Hardened Mana X
     Harvesting VI
-        Harvesting
+        ENCHANTMENT_HARVESTING_6, Harvesting VI
     Hecatomb I-X
-        Hecatomb
-        Hecatomb
-        Hecatomb
-        Hecatomb
-        Hecatomb
-        Hecatomb
-        Hecatomb
-        Hecatomb
-        Hecatomb
-        Hecatomb
+        ENCHANTMENT_HECATOMB_1, Hecatomb I
+        ENCHANTMENT_HECATOMB_2, Hecatomb II
+        ENCHANTMENT_HECATOMB_3, Hecatomb III
+        ENCHANTMENT_HECATOMB_4, Hecatomb IV
+        ENCHANTMENT_HECATOMB_5, Hecatomb V
+        ENCHANTMENT_HECATOMB_6, Hecatomb VI
+        ENCHANTMENT_HECATOMB_7, Hecatomb VII
+        ENCHANTMENT_HECATOMB_8, Hecatomb VIII
+        ENCHANTMENT_HECATOMB_9, Hecatomb IX
+        ENCHANTMENT_HECATOMB_10, Hecatomb X
     Infinite Quiver VI-X
-        Infinite Quiver
-        Infinite Quiver
-        Infinite Quiver
-        Infinite Quiver
-        Infinite Quiver
+        ENCHANTMENT_INFINITE_QUIVER_6, Infinite Quiver VI
+        ENCHANTMENT_INFINITE_QUIVER_7, Infinite Quiver VII
+        ENCHANTMENT_INFINITE_QUIVER_8, Infinite Quiver VIII
+        ENCHANTMENT_INFINITE_QUIVER_9, Infinite Quiver IX
+        ENCHANTMENT_INFINITE_QUIVER_10, Infinite Quiver X
     Lethality VI
-        Lethality
+        ENCHANTMENT_LETHALITY_6, Lethality VI
     Life Steal IV-V
-        Life Steal
-        Life Steal
+        ENCHANTMENT_LIFE_STEAL_4, Life Steal IV
+        ENCHANTMENT_LIFE_STEAL_5, Life Steal V
     Looting IV-V
-        Looting
-        Looting
+        ENCHANTMENT_LOOTING_4, Looting IV
+        ENCHANTMENT_LOOTING_5, Looting V
     Luck VI-VII
-        Luck
-        Luck
+        ENCHANTMENT_LUCK_6, Luck VI
+        ENCHANTMENT_LUCK_7, Luck VII
     Luck of the Sea VI
-        Luck of the Sea
+        ENCHANTMENT_LUCK_OF_THE_SEA_6, Luck of the Sea VI
     Lure VI
-        Lure
+        ENCHANTMENT_LURE_6, Lure VI
     Magnet VI
-        Magnet
+        ENCHANTMENT_MAGNET_6, Magnet VI
     Mana Steal I-III
-        Mana Steal
-        Mana Steal
-        Mana Steal
+        ENCHANTMENT_MANA_STEAL_1, Mana Steal I
+        ENCHANTMENT_MANA_STEAL_2, Mana Steal II
+        ENCHANTMENT_MANA_STEAL_3, Mana Steal III
     Mana Vampire I-X
-        Mana Vampire
-        Mana Vampire
-        Mana Vampire
-        Mana Vampire
-        Mana Vampire
-        Mana Vampire
-        Mana Vampire
-        Mana Vampire
-        Mana Vampire
-        Mana Vampire
+        ENCHANTMENT_MANA_VAMPIRE_1, Mana Vampire I
+        ENCHANTMENT_MANA_VAMPIRE_2, Mana Vampire II
+        ENCHANTMENT_MANA_VAMPIRE_3, Mana Vampire III
+        ENCHANTMENT_MANA_VAMPIRE_4, Mana Vampire IV
+        ENCHANTMENT_MANA_VAMPIRE_5, Mana Vampire V
+        ENCHANTMENT_MANA_VAMPIRE_6, Mana Vampire VI
+        ENCHANTMENT_MANA_VAMPIRE_7, Mana Vampire VII
+        ENCHANTMENT_MANA_VAMPIRE_8, Mana Vampire VIII
+        ENCHANTMENT_MANA_VAMPIRE_9, Mana Vampire IX
+        ENCHANTMENT_MANA_VAMPIRE_10, Mana Vampire X
     Overload I-V
-        Overload
-        Overload
-        Overload
-        Overload
-        Overload
+        ENCHANTMENT_OVERLOAD_1, Overload I
+        ENCHANTMENT_OVERLOAD_2, Overload II
+        ENCHANTMENT_OVERLOAD_3, Overload III
+        ENCHANTMENT_OVERLOAD_4, Overload IV
+        ENCHANTMENT_OVERLOAD_5, Overload V
     Power VI-VII
-        Power
-        Power
+        ENCHANTMENT_POWER_6, Power VI
+        ENCHANTMENT_POWER_7, Power VII
     Pristine I-V
-        Pristine
-        Pristine
-        Pristine
-        Pristine
-        Pristine
+        ENCHANTMENT_PRISTINE_1, Pristine I
+        ENCHANTMENT_PRISTINE_2, Pristine II
+        ENCHANTMENT_PRISTINE_3, Pristine III
+        ENCHANTMENT_PRISTINE_4, Pristine IV
+        ENCHANTMENT_PRISTINE_5, Pristine V
     Projectile Protection VI-VII
-        Projectile Protection
-        Projectile Protection
+        ENCHANTMENT_PROJECTILE_PROTECTION_6, Projectile Protection VI
+        ENCHANTMENT_PROJECTILE_PROTECTION_7, Projectile Protection VII
     Prosecute VI
-        Prosecute
+        ENCHANTMENT_PROSECUTE_6, Prosecute VI
     Prosperity I-V
-        Prosperity
-        Prosperity
-        Prosperity
-        Prosperity
-        Prosperity
+        ENCHANTMENT_PROSPERITY_1, Prosperity I
+        ENCHANTMENT_PROSPERITY_2, Prosperity II
+        ENCHANTMENT_PROSPERITY_3, Prosperity III
+        ENCHANTMENT_PROSPERITY_4, Prosperity IV
+        ENCHANTMENT_PROSPERITY_5, Prosperity V
     Protection VI-VII
-        Protection
-        Protection
+        ENCHANTMENT_PROTECTION_6, Protection VI
+        ENCHANTMENT_PROTECTION_7, Protection VII
     Rejuvenate I-V
-        Rejuvenate
-        Rejuvenate
-        Rejuvenate
-        Rejuvenate
-        Rejuvenate
+        ENCHANTMENT_REJUVENATE_1, Rejuvenate I
+        ENCHANTMENT_REJUVENATE_2, Rejuvenate II
+        ENCHANTMENT_REJUVENATE_3, Rejuvenate III
+        ENCHANTMENT_REJUVENATE_4, Rejuvenate IV
+        ENCHANTMENT_REJUVENATE_5, Rejuvenate V
     Replenish I
-        Replenish
+        ENCHANTMENT_REPLENISH_1, Replenish I
     Respite I-V
-        Respite
-        Respite
-        Respite
-        Respite
-        Respite
+        ENCHANTMENT_RESPITE_1, Respite I
+        ENCHANTMENT_RESPITE_2, Respite II
+        ENCHANTMENT_RESPITE_3, Respite III
+        ENCHANTMENT_RESPITE_4, Respite IV
+        ENCHANTMENT_RESPITE_5, Respite V
     Scavenger IV-V
-        Scavenger
-        Scavenger
+        ENCHANTMENT_SCAVENGER_4, cavenger IV
+        ENCHANTMENT_SCAVENGER_5, Scavenger V
     Sharpness VI-VII
-        Sharpness
-        Sharpness
+        ENCHANTMENT_SHARPNESS_6, Sharpness VI
+        ENCHANTMENT_SHARPNESS_7, Sharpness VII
     Smarty Pants I-V
-        Smarty Pants
-        Smarty Pants
-        Smarty Pants
-        Smarty Pants
-        Smarty Pants
+        ENCHANTMENT_SMARTY_PANTS_1, Smarty Pants I
+        ENCHANTMENT_SMARTY_PANTS_2, Smarty Pants II
+        ENCHANTMENT_SMARTY_PANTS_3, Smarty Pants III
+        ENCHANTMENT_SMARTY_PANTS_4, Smarty Pants IV
+        ENCHANTMENT_SMARTY_PANTS_5, Smarty Pants V
     Smite VI-VII
-        Smite
-        Smite
+        ENCHANTMENT_SMITE_6, Smite VI
+        ENCHANTMENT_SMITE_7, Smite VII
     Smoldering I-V
-        Smoldering
-        Smoldering
-        Smoldering
-        Smoldering
-        Smoldering
+        ENCHANTMENT_SMOLDERING_1, Smoldering I
+        ENCHANTMENT_SMOLDERING_2, Smoldering II
+        ENCHANTMENT_SMOLDERING_3, Smoldering III
+        ENCHANTMENT_SMOLDERING_4, Smoldering IV
+        ENCHANTMENT_SMOLDERING_5, Smoldering V
     Snipe IV
-        Snipe
+        ENCHANTMENT_SNIPE_4, Snipe IV
     Spiked Hook VI
-        Spiked Hook
+        ENCHANTMENT_SPIKED_HOOK_6, Spiked Hook VI
     Strong Mana I-X
-        Strong Mana
-        Strong Mana
-        Strong Mana
-        Strong Mana
-        Strong Mana
-        Strong Mana
-        Strong Mana
-        Strong Mana
-        Strong Mana
-        Strong Mana
+        ENCHANTMENT_STRONG_MANA_1, Strong Mana I
+        ENCHANTMENT_STRONG_MANA_2, Strong Mana II
+        ENCHANTMENT_STRONG_MANA_3, Strong Mana III
+        ENCHANTMENT_STRONG_MANA_4, Strong Mana IV
+        ENCHANTMENT_STRONG_MANA_5, Strong Mana V
+        ENCHANTMENT_STRONG_MANA_6, Strong Mana VI
+        ENCHANTMENT_STRONG_MANA_7, Strong Mana VII
+        ENCHANTMENT_STRONG_MANA_8, Strong Mana VIII
+        ENCHANTMENT_STRONG_MANA_9, Strong Mana IX
+        ENCHANTMENT_STRONG_MANA_10, Strong Mana X
     Sugar Rush I-III
-        Sugar Rush
-        Sugar Rush
-        Sugar Rush
+        ENCHANTMENT_SUGAR_RUSH_1, Sugar Rush I
+        ENCHANTMENT_SUGAR_RUSH_2, Sugar Rush II
+        ENCHANTMENT_SUGAR_RUSH_3, Sugar Rush III
     Syphon IV-V
-        Syphon
-        Syphon
-    Tobasco I-III
-        Tobasco
-        Tobasco
-        Tobasco
+        ENCHANTMENT_SYPHON_4, Syphon IV
+        ENCHANTMENT_SYPHON_5, Syphon V
+    Tabasco I-III
+        ENCHANTMENT_TABASCO_1, Tabasco I
+        ENCHANTMENT_TABASCO_2, Tabasco II
+        ENCHANTMENT_TABASCO_3, Tabasco III
     Thunderbolt VI
-        Thunderbolt
+        ENCHANTMENT_THUNDERBOLT_6, Thunderbolt VI
     Thunderlord VI-VII
-        Thunderlord
-        Thunderlord
+        ENCHANTMENT_THUNDERLORD_6, Thunderlord VI
+        ENCHANTMENT_THUNDERLORD_7, Thunderlord VII
     Titan Killer V
-        Titan Killer
+        ENCHANTMENT_TITAN_KILLER_5, Titan Killer V
     Triple Strike V
-        Triple Strike
+        ENCHANTMENT_TRIPLE_STRIKE_5, Triple Strike V
     True Protection I
-        True Protection
+        ENCHANTMENT_TRUE_PROTECTION_1, True Protection I
     Turbo Cacti I-V
-        Turbo Cacti
-        Turbo Cacti
-        Turbo Cacti
-        Turbo Cacti
-        Turbo Cacti
+        ENCHANTMENT_TURBO_CACTUS_1, Turbo Cacti I
+        ENCHANTMENT_TURBO_CACTUS_2, Turbo Cacti II
+        ENCHANTMENT_TURBO_CACTUS_3, Turbo Cacti III
+        ENCHANTMENT_TURBO_CACTUS_4, Turbo Cacti IV
+        ENCHANTMENT_TURBO_CACTUS_5, Turbo Cacti V
     Turbo Cane I-V
-        Turbo Cane
-        Turbo Cane
-        Turbo Cane
-        Turbo Cane
-        Turbo Cane
+        ENCHANTMENT_TURBO_CANE_1, Turbo Cane I
+        ENCHANTMENT_TURBO_CANE_2, Turbo Cane II
+        ENCHANTMENT_TURBO_CANE_3, Turbo Cane III
+        ENCHANTMENT_TURBO_CANE_4, Turbo Cane IV
+        ENCHANTMENT_TURBO_CANE_5, Turbo Cane V
     Turbo Carrot I-V
-        Turbo Carrot
-        Turbo Carrot
-        Turbo Carrot
-        Turbo Carrot
-        Turbo Carrot
+        ENCHANTMENT_TURBO_CARROT_1, Turbo Carrot I
+        ENCHANTMENT_TURBO_CARROT_2, Turbo Carrot II
+        ENCHANTMENT_TURBO_CARROT_3, Turbo Carrot III
+        ENCHANTMENT_TURBO_CARROT_4, Turbo Carrot IV
+        ENCHANTMENT_TURBO_CARROT_5, Turbo Carrot V
     Turbo Cocoa I-V
-        Turbo Cocoa
-        Turbo Cocoa
-        Turbo Cocoa
-        Turbo Cocoa
-        Turbo Cocoa
+        ENCHANTMENT_TURBO_COCO_1, Turbo Cocoa I
+        ENCHANTMENT_TURBO_COCO_2, Turbo Cocoa II
+        ENCHANTMENT_TURBO_COCO_3, Turbo Cocoa III
+        ENCHANTMENT_TURBO_COCO_4, Turbo Cocoa IV
+        ENCHANTMENT_TURBO_COCO_5, Turbo Cocoa V
     Turbo Melon I-V
-        Turbo Melon
-        Turbo Melon
-        Turbo Melon
-        Turbo Melon
-        Turbo Melon
+        ENCHANTMENT_TURBO_MELON_1, Turbo Melon I
+        ENCHANTMENT_TURBO_MELON_2, Turbo Melon II
+        ENCHANTMENT_TURBO_MELON_3, Turbo Melon III
+        ENCHANTMENT_TURBO_MELON_4, Turbo Melon IV
+        ENCHANTMENT_TURBO_MELON_5, Turbo Melon V
     Turbo Mushrooms I-V
-        Turbo Mushrooms
-        Turbo Mushrooms
-        Turbo Mushrooms
-        Turbo Mushrooms
-        Turbo Mushrooms
+        ENCHANTMENT_TURBO_MUSHROOMS_1, Turbo Mushrooms I
+        ENCHANTMENT_TURBO_MUSHROOMS_2, Turbo Mushrooms II
+        ENCHANTMENT_TURBO_MUSHROOMS_3, Turbo Mushrooms III
+        ENCHANTMENT_TURBO_MUSHROOMS_4, Turbo Mushrooms IV
+        ENCHANTMENT_TURBO_MUSHROOMS_5, Turbo Mushrooms V
     Turbo Potato I-V
-        Turbo Potato
-        Turbo Potato
-        Turbo Potato
-        Turbo Potato
-        Turbo Potato
+        ENCHANTMENT_TURBO_POTATO_1, Turbo Potato I
+        ENCHANTMENT_TURBO_POTATO_2, Turbo Potato II
+        ENCHANTMENT_TURBO_POTATO_3, Turbo Potato III
+        ENCHANTMENT_TURBO_POTATO_4, Turbo Potato IV
+        ENCHANTMENT_TURBO_POTATO_5, Turbo Potato V
     Turbo Pumpkin I-V
-        Turbo Pumpkin
-        Turbo Pumpkin
-        Turbo Pumpkin
-        Turbo Pumpkin
-        Turbo Pumpkin
+        ENCHANTMENT_TURBO_PUMPKIN_1, Turbo Pumpkin I
+        ENCHANTMENT_TURBO_PUMPKIN_2, Turbo Pumpkin II
+        ENCHANTMENT_TURBO_PUMPKIN_3, Turbo Pumpkin III
+        ENCHANTMENT_TURBO_PUMPKIN_4, Turbo Pumpkin IV
+        ENCHANTMENT_TURBO_PUMPKIN_5, Turbo Pumpkin V
     Turbo Warts I-V
-        Turbo Warts
-        Turbo Warts
-        Turbo Warts
-        Turbo Warts
-        Turbo Warts
+        ENCHANTMENT_TURBO_WARTS_1, Turbo Warts I
+        ENCHANTMENT_TURBO_WARTS_2, Turbo Warts II
+        ENCHANTMENT_TURBO_WARTS_3, Turbo Warts III
+        ENCHANTMENT_TURBO_WARTS_4, Turbo Warts IV
+        ENCHANTMENT_TURBO_WARTS_5, Turbo Warts V
     Turbo Wheat I-V
-        Turbo Wheat
-        Turbo Wheat
-        Turbo Wheat
-        Turbo Wheat
-        Turbo Wheat
+        ENCHANTMENT_TURBO_WHEAT_1, Turbo Wheat I
+        ENCHANTMENT_TURBO_WHEAT_2, Turbo Wheat II
+        ENCHANTMENT_TURBO_WHEAT_3, Turbo Wheat III
+        ENCHANTMENT_TURBO_WHEAT_4, Turbo Wheat IV
+        ENCHANTMENT_TURBO_WHEAT_5, Turbo Wheat V
     Vampirism VI
-        Vampirism
+        ENCHANTMENT_VAMPIRISM_6, Vampirism VI
     Venomous VI
-        Venomous
+        ENCHANTMENT_VENOMOUS_6, Venomous VI
     Vicious III-V
-        Vicious
-        Vicious
-        Vicious
+        ENCHANTMENT_VICIOUS_3, Vicious III
+        ENCHANTMENT_VICIOUS_4, Vicious IV
+        ENCHANTMENT_VICIOUS_5, Vicious V
 Oddities - Ultimate Enchantments
     Bank I-V
-        Bank
-        Bank
-        Bank
-        Bank
-        Bank
+        ENCHANTMENT_ULTIMATE_BANK_1, Bank I
+        ENCHANTMENT_ULTIMATE_BANK_2, Bank II
+        ENCHANTMENT_ULTIMATE_BANK_3, Bank III
+        ENCHANTMENT_ULTIMATE_BANK_4, Bank IV
+        ENCHANTMENT_ULTIMATE_BANK_5, Bank V
     Chimera I-V
-        Chimera
-        Chimera
-        Chimera
-        Chimera
-        Chimera
+        ENCHANTMENT_ULTIMATE_CHIMERA_1, Chimera I
+        ENCHANTMENT_ULTIMATE_CHIMERA_2, Chimera II
+        ENCHANTMENT_ULTIMATE_CHIMERA_3, Chimera III
+        ENCHANTMENT_ULTIMATE_CHIMERA_4, Chimera IV
+        ENCHANTMENT_ULTIMATE_CHIMERA_5, Chimera V
     Combo I-V
-        Combo
-        Combo
-        Combo
-        Combo
-        Combo
+        ENCHANTMENT_ULTIMATE_COMBO_1, Combo I
+        ENCHANTMENT_ULTIMATE_COMBO_2, Combo II
+        ENCHANTMENT_ULTIMATE_COMBO_3, Combo III
+        ENCHANTMENT_ULTIMATE_COMBO_4, Combo IV
+        ENCHANTMENT_ULTIMATE_COMBO_5, Combo V
     Duplex I-V
-        Duplex
-        Duplex
-        Duplex
-        Duplex
-        Duplex
+        ENCHANTMENT_ULTIMATE_REITERATE_1, Duplex I
+        ENCHANTMENT_ULTIMATE_REITERATE_2, Duplex II
+        ENCHANTMENT_ULTIMATE_REITERATE_3, Duplex III
+        ENCHANTMENT_ULTIMATE_REITERATE_4, Duplex IV
+        ENCHANTMENT_ULTIMATE_REITERATE_5, Duplex V
     Fatal Tempo I-V
-        Fatal Tempo
-        Fatal Tempo
-        Fatal Tempo
-        Fatal Tempo
-        Fatal Tempo
+        ENCHANTMENT_ULTIMATE_FATAL_TEMPO_1, Fatal Tempo I
+        ENCHANTMENT_ULTIMATE_FATAL_TEMPO_2, Fatal Tempo II
+        ENCHANTMENT_ULTIMATE_FATAL_TEMPO_3, Fatal Tempo III
+        ENCHANTMENT_ULTIMATE_FATAL_TEMPO_4, Fatal Tempo IV
+        ENCHANTMENT_ULTIMATE_FATAL_TEMPO_5, Fatal Tempo V
     Flash I-V
-        Flash
-        Flash
-        Flash
-        Flash
-        Flash
-    Habanero Tactics I-V
-        Habanero Tactics
-        Habanero Tactics
-        Habanero Tactics
-        Habanero Tactics
-        Habanero Tactics
+        ENCHANTMENT_ULTIMATE_FLASH_1, Flash I
+        ENCHANTMENT_ULTIMATE_FLASH_2, Flash II
+        ENCHANTMENT_ULTIMATE_FLASH_3, Flash III
+        ENCHANTMENT_ULTIMATE_FLASH_4, Flash IV
+        ENCHANTMENT_ULTIMATE_FLASH_5, Flash V
+    Habanero Tactics IV-V
+        ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_4, Habanero Tactics IV
+        ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_5, Habanero Tactics V
     Inferno I-V
-        Inferno
-        Inferno
-        Inferno
-        Inferno
-        Inferno
+        ENCHANTMENT_ULTIMATE_INFERNO_1, Inferno I
+        ENCHANTMENT_ULTIMATE_INFERNO_2, Inferno II
+        ENCHANTMENT_ULTIMATE_INFERNO_3, Inferno III
+        ENCHANTMENT_ULTIMATE_INFERNO_4, Inferno IV
+        ENCHANTMENT_ULTIMATE_INFERNO_5, Inferno V
     Ultimate Jerry I-V
-        Ultimate Jerry
-        Ultimate Jerry
-        Ultimate Jerry
-        Ultimate Jerry
-        Ultimate Jerry
+        ENCHANTMENT_ULTIMATE_JERRY_1, Ultimate Jerry I
+        ENCHANTMENT_ULTIMATE_JERRY_2, Ultimate Jerry II
+        ENCHANTMENT_ULTIMATE_JERRY_3, Ultimate Jerry III
+        ENCHANTMENT_ULTIMATE_JERRY_4, Ultimate Jerry IV
+        ENCHANTMENT_ULTIMATE_JERRY_5, Ultimate Jerry V
     Last Stand I-V
-        Last Stand
-        Last Stand
-        Last Stand
-        Last Stand
-        Last Stand
+        ENCHANTMENT_ULTIMATE_LAST_STAND_1, Last Stand I
+        ENCHANTMENT_ULTIMATE_LAST_STAND_2, Last Stand II
+        ENCHANTMENT_ULTIMATE_LAST_STAND_3, Last Stand III
+        ENCHANTMENT_ULTIMATE_LAST_STAND_4, Last Stand IV
+        ENCHANTMENT_ULTIMATE_LAST_STAND_5, Last Stand V
     Legion I-V
-        Legion
-        Legion
-        Legion
-        Legion
-        Legion
+        ENCHANTMENT_ULTIMATE_LEGION_1, Legion I
+        ENCHANTMENT_ULTIMATE_LEGION_2, Legion II
+        ENCHANTMENT_ULTIMATE_LEGION_3, Legion III
+        ENCHANTMENT_ULTIMATE_LEGION_4, Legion IV
+        ENCHANTMENT_ULTIMATE_LEGION_5, Legion V
     No Pain No Gain I-V
-        No Pain No Gain
-        No Pain No Gain
-        No Pain No Gain
-        No Pain No Gain
-        No Pain No Gain
+        ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1, No Pain No Gain I
+        ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2, No Pain No Gain II
+        ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_3, No Pain No Gain III
+        ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_4, No Pain No Gain IV
+        ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_5, No Pain No Gain V
     One For All I
-        ENCHANTMENT_ULTIMATE_ONE_FOR_ALL_1, One For All 
+        ENCHANTMENT_ULTIMATE_ONE_FOR_ALL_1, One For All
     Rend I-V
         ENCHANTMENT_ULTIMATE_REND_1, Rend I
         ENCHANTMENT_ULTIMATE_REND_2, Rend II
