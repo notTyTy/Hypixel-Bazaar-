@@ -1,0 +1,1555 @@
+_farming,Farming
+
+_wheat_and_seeds,Wheat & Seeds
+WHEAT,Wheat
+ENCHANTED_BREAD,Enchanted Bread
+HAY_BLOCK,Hay Bale
+ENCHANTED_HAY_BLOCK,Enchanted Hay Bale
+TIGHTLY_TIED_HAY_BALE,Tightly-Tied Hay Bale
+SEEDS,Seeds
+ENCHANTED_SEEDS,Enchanted Seeds
+
+_carrot,Carrot
+CARROT_ITEM,Carrot
+ENCHANTED_CARROT,Enchanted Carrot
+ENCHANTED_CARROT_STICK,Enchanted Carrot on a Stick
+ENCHANTED_GOLDEN_CARROT,Enchanted Golden Carrot
+
+_potato,Potato
+POTATO_ITEM,Potato
+ENCHANTED_POTATO,Enchanted Potato
+ENCHANTED_BAKED_POTATO,Enchanted Baked Potato
+
+_pumpkin,Pumpkin
+PUMPKIN,Pumpkin
+ENCHANTED_PUMPKIN,Enchanted Pumpkin
+POLISHED_PUMPKIN,Polished Pumpkin
+
+_melon,Melon
+MELON,Melon
+ENCHANTED_MELON,Enchanted Melon
+ENCHANTED_GLISTERING_MELON,Enchanted Glistering Melon
+MELON_BLOCK,Melon Block
+ENCHANTED_MELON_BLOCK,Enchanted Melon Block
+
+_mushroom,Mushrooms
+RED_MUSHROOM,Red Mushroom
+ENCHANTED_RED_MUSHROOM,Enchanted Red Mushroom
+HUGE_MUSHROOM_2,Red Mushroom Block
+ENCHANTED_HUGE_MUSHROOM_2,Enchanted Red Mushroom Block
+BROWN_MUSHROOM,Brown Mushroom
+ENCHANTED_BROWN_MUSHROOM,Enchanted Brown Mushroom
+HUGE_MUSHROOM_1,Brown Mushroom Block
+ENCHANTED_HUGE_MUSHROOM_1,Enchanted Brown Mushroom Block
+
+_cocoa_beans,Cocoa Beans
+INK_SACK:3,Cocoa Beans
+ENCHANTED_COCOA,Enchanted Cocoa Beans
+ENCHANTED_COOKIE,Enchanted Cookie
+
+_cactus,Cactus
+CACTUS,Cactus
+ENCHANTED_CACTUS_GREEN,Enchanted Cactus Green
+ENCHANTED_CACTUS,Enchanted Cactus
+
+_sugar_cane,Sugar Cane
+SUGAR_CANE,Sugar Cane
+ENCHANTED_SUGAR Enchanted Sugar
+ENCHANTED_PAPER,Enchanted Paper
+ENCHANTED_SUGAR_CANE,Enchanted Sugar Cane
+
+_leather_and_beef,Leather & Beef
+LEATHER,Leather
+ENCHANTED_LEATHER,Enchanted Leather
+RAW_BEEF,Raw Beef
+ENCHANTED_RAW_BEEF,Enchanted Raw Beef
+
+_pork,Pork
+PORK,Raw Porkchop
+ENCHANTED_PORK,Enchanted Pork
+ENCHANTED_GRILLED_PORK,Enchanted Grilled Pork
+
+_chicken_and_feather,Chicken & Feather
+RAW_CHICKEN,Raw Chicken
+ENCHANTED_RAW_CHICKEN,Enchanted Raw Chicken
+ENCHANTED_CAKE,Enchanted Cake
+FEATHER,Feather
+ENCHANTED_FEATHER,Enchanted Feather
+ENCHANTED_EGG,Enchanted Egg
+SUPER_EGG,Super Enchanted Egg
+OMEGA_EGG,Omega Enchanted Egg
+
+_mutton,Mutton
+MUTTON,Mutton
+ENCHANTED_MUTTON,Enchanted Mutton
+ENCHANTED_COOKED_MUTTON,Enchanted Cooked Mutton
+
+_rabbit,Rabbit
+RABBIT,Raw Rabbit
+ENCHANTED_RABBIT,Enchanted Raw Rabbit
+RABBIT_FOOT,Rabbit's Foot
+RABBIT_HIDE,Rabbit Hide
+ENCHANTED_RABBIT_FOOT,Enchanted Rabbit Foot
+ENCHANTED_RABBIT_HIDE,Enchanted Rabbit Hide
+
+_nether_warts,Neather Warts
+NETHER_STALK,Nether Wart
+ENCHANTED_NETHER_STALK,Enchanted Nether Wart
+MUTANT_NETHER_STALK,Mutant Nether Wart
+
+_mycelium,Mycelium
+MYCEL,Mycelium
+ENCHANTED_MYCELIUM,Enchanted Mycelium
+ENCHANTED_MYCELIUM_CUBE,Enchanted Mycelium Cube
+
+
+
+_mining,Mining
+
+_cobblestone,Cobblestone
+COBBLESTONE,Cobblestone
+ENCHANTED_COBBLESTONE,Enchanted Cobblestone
+
+_coal,Coal
+COAL,Coal
+ENCHANTED_COAL,Enchanted Coal
+ENCHANTED_CHARCOAL,Enchanted Charcoal
+ENCHANTED_COAL_BLOCK,Enchanted Block of Coal
+
+_iron,Iron
+IRON_INGOT,Iron Ingot
+ENCHANTED_IRON,Enchanted Iron
+ENCHANTED_IRON_BLOCK,Enchanted Iron Block
+
+_gold,Gold
+GOLD_INGOT,Gold Ingot
+ENCHANTED_GOLD,Enchanted Gold
+ENCHANTED_GOLD_BLOCK,Enchanted Gold Block
+
+_diamond,Diamond,
+DIAMOND,Diamond
+ENCHANTED_DIAMOND,Enchanted Diamond
+ENCHANTED_DIAMOND_BLOCK,Enchanted Diamond Block
+REFINED_DIAMOND,Refined Diamond
+
+_lapis,Lapis
+INK_SACK:4,Lapis Lazuli
+ENCHANTED_LAPIS_LAZULI,Enchanted Lapis Lazuli
+ENCHANTED_LAPIS_LAZULI_BLOCK,Enchanted Lapis Block
+
+_gemstones,Gemstones
+ROUGH_JADE_GEM,Rough Jade Gemstone
+ROUGH_AMBER_GEM,Rough Amber Gemstone
+ROUGH_TOPAZ_GEM,Rough Topaz Gemstone
+ROUGH_SAPPHIRE_GEM,Rough Sapphire Gemstone
+ROUGH_AMETHYST_GEM,Rough Amethyst Gemstone
+ROUGH_JASPER_GEM,Rough Jasper Gemstone
+ROUGH_RUBY_GEM,Rough Ruby Gemstone
+ROUGH_OPAL_GEM,Rough Opal Gemstone
+FLAWED_JADE_GEM,Flawed Jade Gemstone
+FLAWED_AMBER_GEM,Flawed Amber Gemstone
+FLAWED_TOPAZ_GEM,Flawed Topaz Gemstone
+FLAWED_SAPPHIRE_GEM,Flawed Sapphire Gemstone
+FLAWED_AMETHYST_GEM,Flawed Amethyst Gemstone
+FLAWED_JASPER_GEM,Flawed Jasper Gemstone
+FLAWED_RUBY_GEM,Flawed Ruby Gemstone
+FLAWED_OPAL_GEM,Flawed Opal Gemstone
+FINE_JADE_GEM,Fine Jade Gemstone
+FINE_AMBER_GEM,Fine Amber Gemstone
+FINE_TOPAZ_GEM,Fine Topaz Gemstone
+FINE_SAPPHIRE_GEM,Fine Sapphire Gemstone
+FINE_AMETHYST_GEM,Fine Amethyst Gemstone
+FINE_JASPER_GEM,Fine Opal Gemstone
+PERFECT_JADE_GEM,Perfect Jade Gemstone
+PERFECT_AMBER_GEM,Perfect Amber Gemstone
+PERFECT_TOPAZ_GEM,Perfect Topaz Gemstone
+PERFECT_SAPPHIRE_GEM,Perfect Sapphire Gemstone
+PERFECT_AMETHYST_GEM,Perfect Amethyst Gemstone
+PERFECT_JASPER_GEM,Perfect Jasper Gemstone
+PERFECT_RUBY_GEM,Perfect Ruby Gemstone
+PERFECT_OPAL_GEM,Perfect Opal Gemstone
+
+_emerald,Emerald
+EMERALD,Emerald
+ENCHANTED_EMERALD,Enchanted Emerald
+ENCHANTED_EMERALD_BLOCK,Enchanted Emerald Block
+
+_redstone,Redstone
+REDSTONE,Redstone
+ENCHANTED_REDSTONE,Enchanted Redstone
+ENCHANTED_REDSTONE_BLOCK,Enchanted Redstone Block
+
+_quartz,Quartz
+QUARTZ,Nether Quartz
+ENCHANTED_QUARTZ,Enchanted Quartz
+ENCHANTED_QUARTZ_BLOCK,Enchanted Quartz Block
+
+_obsidian,Obsidian
+OBSIDIAN,Obsidian
+ENCHANTED_OBSIDIAN,Enchanted Obsidian
+
+_glowstone,Glowstone
+GLOWSTONE_DUST,Glowstone Dust
+ENCHANTED_GLOWSTONE_DUST,Enchanted Glowstone Dust
+ENCHANTED_GLOWSTONE,Enchanted Glowstone
+ENCHANTED_REDSTONE_LAMP,Enchanted Redstone Lamp
+
+_flit_and_gravel,Flint & Gravel
+FLINT,Flint
+ENCHANTED_FLINT,Enchanted Flint
+GRAVEL,Gravel
+
+_hard_stone,Hard Stone
+HARD_STONE,Hard Stone
+ENCHANTED_HARD_STONE,Enchanted Hard Stone
+CONCENTRATED_STONE,Concentrated Stone
+
+_ice,Ice
+ICE,Ice
+PACKED_ICE,Packed Ice
+ENCHANTED_ICE,Enchanted Ice
+ENCHANTED_PACKED_ICE,Enchanted Packed Ice
+GLACIAL_FRAGMENT,Glacial Fragment
+
+_netherrack,Netherrack
+NETHERRACK,Netherrack
+ENCHANTED_NETHERRACK,Enchanted Netherrack
+
+
+_sand,Sand
+SAND,Sand
+ENCHANTED_SAND,Enchanted Sand
+SAND:1,Red Sand
+ENCHANTED_RED_SAND,Enchanted Red Sand
+ENCHANTED_RED_SAND_CUBE,Enchanted Red Sand Cube
+
+_end_stone,End Stone
+ENDER_STONE,End Stone
+ENCHANTED_ENDSTONE,Enchanted End Stone
+
+_snow,Snow
+SNOW_BALL,Snowball
+SNOW_BLOCK,Snow Block
+ENCHANTED_SNOW_BLOCK,Enchanted Snow Block
+
+_dwarven_materials,Dwarven Materials
+MITHRIL_ORE,Mithril
+ENCHANTED_MITHRIL,Enchanted Mithril
+REFINED_MITHRIL,Refined Mithril
+STARFALL,Starfall
+TITANIUM_ORE,Titanium
+ENCHANTED_TITANIUM,Enchanted Titanium
+REFINED_TITANIUM,Refined Titanium
+TREASURITE,Treasurite
+
+
+_wood_and_fishes,Wood & Fishes
+
+_oak,Oak
+LOG,Oak Wood
+ENCHANTED_OAK_LOG,Enchanted Oak Wood
+
+_spruce,Spruce
+LOG:1,Spruce Wood
+ENCHANTED_SPRUCE_LOG,Enchanted Spruce Wood
+
+_birch,Birch
+LOG:2,Birch Wood
+ENCHANTED_BIRCH_LOG,Enchanted Birch Wood
+
+_dark_oak,Dark Oak
+LOG_2:1,Dark Oak Wood
+ENCHANTED_DARK_OAK_LOG,Enchanted Dark Oak Wood
+
+_acacia,Acacia
+LOG_2,Acacia Wood
+ENCHANTED_ACACIA_LOG,Enchanted Acacia Wood
+
+_jungle,Jungle
+LOG:3,Jungle Wood
+ENCHANTED_JUNGLE_LOG,Enchanted Jungle Wood
+
+_raw_fish
+RAW_FISH,Raw Fish
+ENCHANTED_RAW_FISH,Enchanted Raw Fish
+ENCHANTED_COOKED_FISH,Enchanted Cooked Fish
+
+_salmon,Salmon
+RAW_FISH:1,Raw Salmon
+ENCHANTED_RAW_SALMON,Enchanted Raw Salmon
+ENCHANTED_COOKED_SALMON,Enchanted Cooked Salmon
+
+_clownfish,Clownfish
+RAW_FISH:2,Clownfish
+ENCHANTED_CLOWNFISH,Enchanted Clownfish
+
+_pufferfish,Pufferfish
+RAW_FISH:3,Pufferfish
+ENCHANTED_PUFFERFISH,Enchanted Pufferfish
+
+_prismarine,Prismarine
+PRISMARINE_SHARD,Prismarine Shard
+ENCHANTED_PRISMARINE_SHARD,Enchanted Prismarine Shard
+PRISMARINE_CRYSTALS,Prismarine Crystals
+ENCHANTED_PRISMARINE_CRYSTALS,Enchanted Prismarine Crystals
+
+_clay,Clay
+CLAY_BALL,Clay
+ENCHANTED_CLAY_BALL,Enchanted Clay
+
+_sponge,Sponge
+SPONGE,Sponge
+ENCHANTED_SPONGE,Enchanted Sponge
+ENCHANTED_WET_SPONGE,Enchanted Wet Sponge
+
+_baits,Baits
+CARROT_BAIT,Carrot Bait
+MINNOW_BAIT,Minnow Bait
+FISH_BAIT,Fish Bait
+LIGHT_BAIT,Light Bait
+DARK_BAIT,Dark Bait
+SPOOKY_BAIT,Spooky Bait
+SPIKED_BAIT,Spiked Bait
+BLESSED_BAIT,Blessed Bait
+ICE_BAIT,Ice Bait
+WHALE_BAIT,Whale Bait
+SHARK_BAIT,Shark Bait
+CORRUPTED_BAIT,Corrupted Bait
+HOT_BAIT,Hot Bait
+
+_fishing_festival_items,Fishing Festival Items
+NURSE_SHARK_TOOTH,Nurse Shark Tooth
+BLUE_SHARK_TOOTH,Blue Shark Tooth
+TIGER_SHARK_TOOTH,Tiger Shark Tooth
+GREAT_WHITE_SHARK_TOOTH,Great White Shark Tooth
+SHARK_FIN,Shark Fin
+ENCHANTED_SHARK_FIN,Enchanted Shark Fin
+
+_fishing_mob_drops,Mob Drops
+WATER_LILY,Lily Pad
+ENCHANTED_WATER_LILY,Enchanted Lily Pad
+WORM_MEMBRANE,Worm Membrane
+INK_SACK,Ink Sac
+ENCHANTED_INK_SACK,Enchanted Ink Sac
+
+_magmafish,Magmafish
+MAGMA_FISH,Magmafish
+MAGMA_FISH_SILVER,Silver Magmafish
+MAGMA_FISH_GOLD,Gold Magmafish
+MAGMA_FISH_DIAMOND,Diamond Magamafish
+
+
+
+_oddities,Oddities
+
+_booster_cookie,Booster Cookie
+BOOSTER_COOKIE,Booster Cookie
+
+_book_modifiers,Book Modifiers
+HOT_POTATO_BOOK,Hot Potato Book
+FUMING_POTATO_BOOK,Fuming Potato Book
+BOOK_OF_STATS,Book of Stats
+THE_ART_OF_WAR,The Art of War
+FARMING_FOR_DUMMIES,Farming for Dummies
+
+_compactor,Compactor
+COMPACTOR,Compactor
+DWARVEN_COMPACTOR,Dwarven Super Compactor
+SUPER_COMPACTOR_3000,Super Compactor 3000
+
+_draconic_sacrifice,Draconic Sacrifice
+RITUAL_RESIDUE,Ritual Residue
+MITE_GEL,Mite Gel
+
+_summoning_eye,Summoning Eye
+SUMMONING_EYE,Summoning Eye
+
+_dragon_fragments,Dragon Fragments
+PROTECTOR_FRAGMENT,Protector Dragon Fragment
+OLD_FRAGMENT,Old Dragon Fragment
+UNSTABLE_FRAGMENT,Unstable Dragon Fragment
+STRONG_FRAGMENT,Strong Dragon Fragment
+YOUNG_FRAGMENT,Young Dragon Fragment
+WISE_FRAGMENT,Wise Dragon Fragment
+SUPERIOR_FRAGMENT,Superior Dragon Fragment
+HOLY_FRAGMENT,Holy Dragon Fragment
+
+_fuels,Fuels
+ENCHANTED_LAVA_BUCKET,Enchanted Lava Bucket
+MAGMA_BUCKET,Magma Bucket
+PLASMA_BUCKET,Plasma Bucket
+HAMSTER_WHEEL,Hamster Wheel
+FOUL_FLESH,Foul Flesh
+CHEESE_FUEL,Tasty Cheese
+CATALYST,Catalyst
+HYPER_CATALYST,Hyper Catalyst
+POWER_CRYSTAL,Power Crystal
+
+_spooky,Spooky
+GREEN_CANDY,Green Candy
+PURPLE_CANDY,Purple Candy
+ECTOPLASM,Ectoplasm
+PUMPKIN_GUTS,Pumpkin Guts
+SPOOKY_SHARD,Spooky Shard
+WEREWOLF_SKIN,Werewolf Skin
+SOUL_FRAGMENT,Soul Fragment
+
+_gifts,Gifts
+WHITE_GIFT,White Gift
+GREEN_GIFT,Green Gift
+RED_GIFT,Red Gift
+
+_jerry_boxes,Jerry Boxes
+JERRY_BOX_GREEN,Green Jerry Box
+JERRY_BOX_BLUE,Blue Jerry Box
+JERRY_BOX_PURPLE,Purple Jerry Box
+JERRY_BOX_GOLDEN,Golden Jerry Box
+
+_refined_mineral,Refined Mineral
+REFINED_MINERAL,Refined Mineral
+
+_recombobulator,Recombobulator
+RECOMBOBULATOR_3000,Recombobulator
+
+_jacobs_ticket,Jacob's Ticket
+JACOBS_TICKET,Jacob's Ticket
+_exp_bottles,EXP Bottles
+EXP_BOTTLE,Experience Bottle
+GRAND_EXP_BOTTLE,Grand Experience Bottle
+TITANIC_EXP_BOTTLE,Titanic Experience Bottle
+COLOSSAL_EXP_BOTTLE,Colossal Experience Bottle
+
+
+_low_reforge_stones,Low Reforge Stones
+HARDENED_WOOD,Hardened Wood
+ROCK_GEMSTONE,Rock Gemstone
+RARE_DIAMOND,Rare Diamond
+JERRY_STONE,Jerry stone
+RED_ROSE,Red Nose
+SHINY_PRISM,Shiny Prism
+SPIRIT_DECOY,Spirit Stone
+CANDY_CORN,Candy Corn
+SEARING_STONE,Searing Stone
+LAPIS_CRYSTAL,Lapis Crystal
+RED_SCARF,Red Scarf
+OPTICAL_LENS,Optical Lens
+AOTE_STONE,Warped Stone
+JADERALD,Jaderald
+DRAGON_CLAW,Dragon Claw
+BLAZE_WAX,Blaze Wax
+NECROMANCER_BROOCH,Necromancer's Brooch
+SALMON_OPAL,Salmon Opal
+PREMIUM_FLESH,Premium Flesh
+SUSPICIOUS_VIAL,Suspicious Vial
+METEOR_SHARD,Meteor Shard
+MIDAS_JEWEL,Midas Jewel
+DIAMOND_ATOM,Diamond Atom
+ONYX,Onyx
+ENDSTONE_GEODE,End Stone Geode
+MOLTEN_CUBE,Molten Cube
+DIAMONITE,Diamonite
+DRAGON_SCALE,Dragon Scale
+PURE_MITHRIL,Pure Mithril
+SALT_CUBE,Salt Cube
+RUSTY_ANCHOR,Rusty Anchor
+
+
+_high_reforge_stones,High Reforge Stones
+AMBER_MATERIAL,Amber Material
+PRECURSOR_GEAR,Precursor Gear
+WITHER_BLOOD,Wither Blood
+DEEP_SEA_ORB,Deep Sea Orb
+BULKY_STONE,Bulky Stone
+KUUDRA_MANDIBLE,Kuudra Mandible
+SADAN_BROOCH,Sadan's Brooch
+BLESSED_FRUIT,Blessed Fruit
+PETRIFIED_STARFALL,Petrified Starfall
+GIANT_TOOTH,Giant Tooth
+DRAGON_HORN,Dragon Horn
+REFINED_AMBER,Refined Amber
+LUCKY_DICE,Lucky Dice
+GOLDEN_BALL,Golden Ball
+HOT_STUFF,Hot Stuff
+
+_power_stones,Power Stones
+LUXURIOUS_SPOOL,Luxurious Spool
+ROCK_CANDY,Rock Candy
+END_STONE_SHULKER,End Stone Shulker
+OBSIDIAN_TABLET,Obsidian Tablet
+DARK_ORB,Dark Orb
+FURBALL,Furball
+ENDER_MONOCLE,Ender Monocle
+ACACIA_BIRDHOUSE,Acacia Birdhouse
+BEATING_HEART,Beating Heart
+MANDRAA,Mandraa
+MAGMA_URCHIN,Magma Urchin
+HORNS_OF_TORMENT,Horns of Torment
+PRECIOUS_PEARL,Precious Pearl
+ECCENTRIC_PAINTING,Eccentric Painting
+HAZMAT_ENDERMAN,Hazmat Enderman
+VITAMIN_DEATH,Vitamin Death
+SCORCHED_BOOKS,Scorched Books
+
+_essence,Essence
+ESSENCE_WITHER,Wither Essence
+ESSENCE_SPIDER,Spider Essence
+ESSENCE_UNDEAD,Undead Essence
+ESSENCE_DRAGON,Dragon Essence
+ESSENCE_GOLD,Gold Essence
+ESSENCE_DIAMOND,Diamond Essence
+ESSENCE_ICE,Ice Essence
+ESSENCE_CRIMSON,Crimson Essence
+
+_oddities_enchanted_books,Oddities - Enchanted Books
+_enchantment_angler,Angler VI
+ENCHANTMENT_ANGLER_6,Angler VI
+
+_enchantment_bane_of_arthropods,Bane Of Arthropods VI-VII
+ENCHANTMENT_BANE_OF_ARTHROPODS_6,Bane Of Arthropods VI
+ENCHANTMENT_BANE_OF_ARTHROPODS_7,Bane Of Arthropods VII
+
+_enchantment_big_brain,Big Brain III-V
+ENCHANTMENT_BIG_BRAIN_3,Big Brain III
+ENCHANTMENT_BIG_BRAIN_4,Big Brain IV
+ENCHANTMENT_BIG_BRAIN_5,Big Brain V
+
+_enchantment_blast_protection,Blast Protection VI-VII
+ENCHANTMENT_BLAST_PROTECTION_6,Blast Protection VI
+ENCHANTMENT_BLAST_PROTECTION_7,Blast Protection VII
+
+_enchantment_blessing,Blessing VI
+ENCHANTMENT_BLESSING_6,Blessing VI
+
+_enchantment_caynne,Caynne I-V
+ENCHANTMENT_CAYNNE_1,Caynne I
+ENCHANTMENT_CAYNNE_2,Caynne II
+ENCHANTMENT_CAYNNE_3,Caynne III
+ENCHANTMENT_CAYNNE_4,Caynne IV
+ENCHANTMENT_CAYNNE_5,Caynne V
+
+_enchantment_champion,Champion I-X
+ENCHANTMENT_CHAMPION_1,Champion I
+ENCHANTMENT_CHAMPION_2,Champion II
+ENCHANTMENT_CHAMPION_3,Champion III
+ENCHANTMENT_CHAMPION_4,Champion IV
+ENCHANTMENT_CHAMPION_5,Champion V
+ENCHANTMENT_CHAMPION_6,Champion VI
+ENCHANTMENT_CHAMPION_7,Champion VII
+ENCHANTMENT_CHAMPION_8,Champion VIII
+ENCHANTMENT_CHAMPION_9,Champion IX
+ENCHANTMENT_CHAMPION_10,Champion X
+
+_enchantment_chance,Chance IV-V
+ENCHANTMENT_CHANCE_4,Chance IV
+ENCHANTMENT_CHANCE_5,Chance V
+
+_enchantment_charm,Charm I-V
+ENCHANTMENT_CHARM_1,Charm I
+ENCHANTMENT_CHARM_2,Charm II
+ENCHANTMENT_CHARM_3,Charm III
+ENCHANTMENT_CHARM_4,Charm IV
+ENCHANTMENT_CHARM_5,Charm V
+
+_enchantment_cleave,Cleave VI
+ENCHANTMENT_CLEAVE_6,Cleave VI
+
+_enchantment_compact,Compact I
+ENCHANTMENT_COMPACT_1,Compact I
+
+_enchantment_corruption,Corruption I-V
+ENCHANTMENT_CORRUPTION_1,Corruption I
+ENCHANTMENT_CORRUPTION_2,Corruption II
+ENCHANTMENT_CORRUPTION_3,Corruption III
+ENCHANTMENT_CORRUPTION_4,Corruption IV
+ENCHANTMENT_CORRUPTION_5,Corruption V
+
+_enchantment_counter-strike,Counter-Strike III-V
+ENCHANTMENT_COUNTER-STRIKE_3,Counter-Strike III
+ENCHANTMENT_COUNTER-STRIKE_4,Counter-Strike IV
+ENCHANTMENT_COUNTER-STRIKE_5,Counter-Strike V
+
+_enchantment_critical,Critical VI-VII
+ENCHANTMENT_CRITICAL_6,Critical VI
+ENCHANTMENT_CRITICAL_7,Critical VII
+
+_enchantment_cubism,Cubism VI
+ENCHANTMENT_CUBISM_6,Cubism VI
+
+_enchantment_cultivating,Cultivating I
+ENCHANTMENT_CULTIVATING_1,Cultivating I
+
+_enchantment_delicate,Delicate V
+ENCHANTMENT_DELICATE_5,Delicate V
+
+_enchantment_dragon_hunter,Dragon Hunter I-V
+ENCHANTMENT_DRAGON_HUNTER_1,Dragon Hunter I
+ENCHANTMENT_DRAGON_HUNTER_2,Dragon Hunter II
+ENCHANTMENT_DRAGON_HUNTER_3,Dragon Hunter III
+ENCHANTMENT_DRAGON_HUNTER_4,Dragon Hunter IV
+ENCHANTMENT_DRAGON_HUNTER_5,Dragon Hunter V
+
+_enchantment_ender_slayer,Ender Slayer VI-VII
+ENCHANTMENT_ENDER_SLAYER_6,Ender Slayer VI
+ENCHANTMENT_ENDER_SLAYER_7,Ender Slayer VII
+
+_enchantment_execute,Execute VI
+ENCHANTMENT_EXECUTE_6,Execute VI
+
+_enchantment_experience,Experience IV-V
+ENCHANTMENT_EXPERIENCE_4,Experience IV
+ENCHANTMENT_EXPERIENCE_5,Experience V
+
+_enchantment_ferocious_mana,Ferocious Mana I-X
+ENCHANTMENT_FEROCIOUS_MANA_1,Ferocious Mana I
+ENCHANTMENT_FEROCIOUS_MANA_2,Ferocious Mana II
+ENCHANTMENT_FEROCIOUS_MANA_3,Ferocious Mana III
+ENCHANTMENT_FEROCIOUS_MANA_4,Ferocious Mana IV
+ENCHANTMENT_FEROCIOUS_MANA_5,Ferocious Mana V
+ENCHANTMENT_FEROCIOUS_MANA_6,Ferocious Mana VI
+ENCHANTMENT_FEROCIOUS_MANA_7,Ferocious Mana VII
+ENCHANTMENT_FEROCIOUS_MANA_8,Ferocious Mana VIII
+ENCHANTMENT_FEROCIOUS_MANA_9,Ferocious Mana IX
+ENCHANTMENT_FEROCIOUS_MANA_10,Ferocious Mana X
+
+_enchantment_fire_aspect,Fire Aspect III
+ENCHANTMENT_FIRE_ASPECT_3,Fire Aspect III
+
+_enchantment_fire_protection,Fire Protection VI-VII
+ENCHANTMENT_FIRE_PROTECTION_6,Fire Protection VI
+ENCHANTMENT_FIRE_PROTECTION_7,Fire Protection VII
+
+_enchantment_first_strike,First Strike V
+ENCHANTMENT_FIRST_STRIKE_5,First Strike V
+
+_enchantment_fortune,Fortune IV
+ENCHANTMENT_FORTUNE_4,Fortune IV
+
+_enchantment_frail,Frail VI
+ENCHANTMENT_FRAIL_6,Frail VI
+
+_enchantment_giant_killer,Giant Killer VI-VII
+ENCHANTMENT_GIANT_KILLER_6,Giant Killer VI
+ENCHANTMENT_GIANT_KILLER_7,Giant Killer VII
+
+_enchantment_growth,Growth VI-VII
+ENCHANTMENT_GROWTH_6,Growth VI
+ENCHANTMENT_GROWTH_7,Growth VII
+
+_enchantment_hardened_mana,Hardened Mana I-X
+ENCHANTMENT_HARDENED_MANA_1,Hardened Mana I
+ENCHANTMENT_HARDENED_MANA_2,Hardened Mana II
+ENCHANTMENT_HARDENED_MANA_3,Hardened Mana III
+ENCHANTMENT_HARDENED_MANA_4,Hardened Mana IV
+ENCHANTMENT_HARDENED_MANA_5,Hardened Mana V
+ENCHANTMENT_HARDENED_MANA_6,Hardened Mana VI
+ENCHANTMENT_HARDENED_MANA_7,Hardened Mana VII
+ENCHANTMENT_HARDENED_MANA_8,Hardened Mana VIII
+ENCHANTMENT_HARDENED_MANA_9,Hardened Mana IX
+ENCHANTMENT_HARDENED_MANA_10,Hardened Mana X
+
+_enchantment_harvesting,Harvesting VI
+ENCHANTMENT_HARVESTING_6,Harvesting VI
+
+_enchantment_hecatomb,Hecatomb I-X
+ENCHANTMENT_HECATOMB_1,Hecatomb I
+ENCHANTMENT_HECATOMB_2,Hecatomb II
+ENCHANTMENT_HECATOMB_3,Hecatomb III
+ENCHANTMENT_HECATOMB_4,Hecatomb IV
+ENCHANTMENT_HECATOMB_5,Hecatomb V
+ENCHANTMENT_HECATOMB_6,Hecatomb VI
+ENCHANTMENT_HECATOMB_7,Hecatomb VII
+ENCHANTMENT_HECATOMB_8,Hecatomb VIII
+ENCHANTMENT_HECATOMB_9,Hecatomb IX
+ENCHANTMENT_HECATOMB_10,Hecatomb X
+
+_enchantment_infinite_quiver,Infinite Quiver VI-X
+ENCHANTMENT_INFINITE_QUIVER_6,Infinite Quiver VI
+ENCHANTMENT_INFINITE_QUIVER_7,Infinite Quiver VII
+ENCHANTMENT_INFINITE_QUIVER_8,Infinite Quiver VIII
+ENCHANTMENT_INFINITE_QUIVER_9,Infinite Quiver IX
+ENCHANTMENT_INFINITE_QUIVER_10,Infinite Quiver X
+
+_enchantment_lethality,Lethality VI
+ENCHANTMENT_LETHALITY_6,Lethality VI
+
+_enchantment_life_steal,Life Steal IV-V
+ENCHANTMENT_LIFE_STEAL_4,Life Steal IV
+ENCHANTMENT_LIFE_STEAL_5,Life Steal V
+
+_enchantment_looting,Looting IV-V
+ENCHANTMENT_LOOTING_4,Looting IV
+ENCHANTMENT_LOOTING_5,Looting V
+
+_enchantment_luck,Luck VI-VII
+ENCHANTMENT_LUCK_6,Luck VI
+ENCHANTMENT_LUCK_7,Luck VII
+
+_enchantment_luck_of_the_sea,Luck of the Sea VI
+ENCHANTMENT_LUCK_OF_THE_SEA_6,Luck of the Sea VI
+
+_enchantment_lure,Lure VI
+ENCHANTMENT_LURE_6,Lure VI
+
+_enchantment_magnet,Magnet VI
+ENCHANTMENT_MAGNET_6,Magnet VI
+
+_enchantment_mana_steal,Mana Steal I-III
+ENCHANTMENT_MANA_STEAL_1,Mana Steal I
+ENCHANTMENT_MANA_STEAL_2,Mana Steal II
+ENCHANTMENT_MANA_STEAL_3,Mana Steal III
+
+_enchantment_mana_vampire,Mana Vampire I-X
+ENCHANTMENT_MANA_VAMPIRE_1,Mana Vampire I
+ENCHANTMENT_MANA_VAMPIRE_2,Mana Vampire II
+ENCHANTMENT_MANA_VAMPIRE_3,Mana Vampire III
+ENCHANTMENT_MANA_VAMPIRE_4,Mana Vampire IV
+ENCHANTMENT_MANA_VAMPIRE_5,Mana Vampire V
+ENCHANTMENT_MANA_VAMPIRE_6,Mana Vampire VI
+ENCHANTMENT_MANA_VAMPIRE_7,Mana Vampire VII
+ENCHANTMENT_MANA_VAMPIRE_8,Mana Vampire VIII
+ENCHANTMENT_MANA_VAMPIRE_9,Mana Vampire IX
+ENCHANTMENT_MANA_VAMPIRE_10,Mana Vampire X
+
+_enchantment_overload,Overload I-V
+ENCHANTMENT_OVERLOAD_1,Overload I
+ENCHANTMENT_OVERLOAD_2,Overload II
+ENCHANTMENT_OVERLOAD_3,Overload III
+ENCHANTMENT_OVERLOAD_4,Overload IV
+ENCHANTMENT_OVERLOAD_5,Overload V
+
+_enchantment_power,Power VI-VII
+ENCHANTMENT_POWER_6,Power VI
+ENCHANTMENT_POWER_7,Power VII
+
+_enchantment_pristine,Pristine I-V
+ENCHANTMENT_PRISTINE_1,Pristine I
+ENCHANTMENT_PRISTINE_2,Pristine II
+ENCHANTMENT_PRISTINE_3,Pristine III
+ENCHANTMENT_PRISTINE_4,Pristine IV
+ENCHANTMENT_PRISTINE_5,Pristine V
+
+_enchantment_projectile_protection,Projectile Protection VI-VII
+ENCHANTMENT_PROJECTILE_PROTECTION_6,Projectile Protection VI
+ENCHANTMENT_PROJECTILE_PROTECTION_7,Projectile Protection VII
+
+_enchantment_prosecute,Prosecute VI
+ENCHANTMENT_PROSECUTE_6,Prosecute VI
+
+_enchantment_prosperity,Prosperity I-V
+ENCHANTMENT_PROSPERITY_1,Prosperity I
+ENCHANTMENT_PROSPERITY_2,Prosperity II
+ENCHANTMENT_PROSPERITY_3,Prosperity III
+ENCHANTMENT_PROSPERITY_4,Prosperity IV
+ENCHANTMENT_PROSPERITY_5,Prosperity V
+
+_enchantment_protection,Protection VI-VII
+ENCHANTMENT_PROTECTION_6,Protection VI
+ENCHANTMENT_PROTECTION_7,Protection VII
+
+_enchantment_rejuvenate,Rejuvenate I-V
+ENCHANTMENT_REJUVENATE_1,Rejuvenate I
+ENCHANTMENT_REJUVENATE_2,Rejuvenate II
+ENCHANTMENT_REJUVENATE_3,Rejuvenate III
+ENCHANTMENT_REJUVENATE_4,Rejuvenate IV
+ENCHANTMENT_REJUVENATE_5,Rejuvenate V
+
+_enchantment_replenish,Replenish I
+
+_enchantment_respite,Respite I-V
+ENCHANTMENT_RESPITE_1,Respite I
+ENCHANTMENT_RESPITE_2,Respite II
+ENCHANTMENT_RESPITE_3,Respite III
+ENCHANTMENT_RESPITE_4,Respite IV
+ENCHANTMENT_RESPITE_5,Respite V
+
+_enchantment_scavenger,Scavenger IV-V
+ENCHANTMENT_SCAVENGER_4,Scavenger IV
+ENCHANTMENT_SCAVENGER_5,Scavenger V
+
+_enchantment_sharpness,Sharpness VI-VII
+ENCHANTMENT_SHARPNESS_6,Sharpness VI
+ENCHANTMENT_SHARPNESS_7,Sharpness VII
+
+_enchantment_smarty_pants,Smarty Pants I-V
+ENCHANTMENT_SMARTY_PANTS_1,Smarty Pants I
+ENCHANTMENT_SMARTY_PANTS_2,Smarty Pants II
+ENCHANTMENT_SMARTY_PANTS_3,Smarty Pants III
+ENCHANTMENT_SMARTY_PANTS_4,Smarty Pants IV
+ENCHANTMENT_SMARTY_PANTS_5,Smarty Pants V
+
+_enchantment_smite,Smite VI-VII
+ENCHANTMENT_SMITE_6,Smite VI
+ENCHANTMENT_SMITE_7,Smite VII
+
+_enchantment_smoldering,Smoldering I-V
+ENCHANTMENT_SMOLDERING_1,Smoldering I
+ENCHANTMENT_SMOLDERING_2,Smoldering II
+ENCHANTMENT_SMOLDERING_3,Smoldering III
+ENCHANTMENT_SMOLDERING_4,Smoldering IV
+ENCHANTMENT_SMOLDERING_5,Smoldering V
+
+_enchantment_snipe,Snipe IV
+ENCHANTMENT_SNIPE_4,Snipe IV
+
+_enchantment_spiked_hook,Spiked Hook VI
+ENCHANTMENT_SPIKED_HOOK_6,Spiked Hook VI
+
+_enchantment_strong_mana,Strong Mana I-X
+ENCHANTMENT_STRONG_MANA_1,Strong Mana I
+ENCHANTMENT_STRONG_MANA_2,Strong Mana II
+ENCHANTMENT_STRONG_MANA_3,Strong Mana III
+ENCHANTMENT_STRONG_MANA_4,Strong Mana IV
+ENCHANTMENT_STRONG_MANA_5,Strong Mana V
+ENCHANTMENT_STRONG_MANA_6,Strong Mana VI
+ENCHANTMENT_STRONG_MANA_7,Strong Mana VII
+ENCHANTMENT_STRONG_MANA_8,Strong Mana VIII
+ENCHANTMENT_STRONG_MANA_9,Strong Mana IX
+ENCHANTMENT_STRONG_MANA_10,Strong Mana X
+
+_enchantment_sugar_rush,Sugar Rush I-III
+ENCHANTMENT_SUGAR_RUSH_1,Sugar Rush I
+ENCHANTMENT_SUGAR_RUSH_2,Sugar Rush II
+ENCHANTMENT_SUGAR_RUSH_3,Sugar Rush III
+
+_enchantment_syphon,Syphon IV-V
+ENCHANTMENT_SYPHON_4,Syphon IV
+ENCHANTMENT_SYPHON_5,Syphon V
+
+_enchantment_tabasco,Tabasco I-III
+ENCHANTMENT_TABASCO_1,Tabasco I
+ENCHANTMENT_TABASCO_2,Tabasco II
+ENCHANTMENT_TABASCO_3,Tabasco III
+
+_enchantment_thunderbolt,Thunderbolt VI
+ENCHANTMENT_THUNDERBOLT_6,Thunderbolt VI
+
+_enchantment_thunderlord,Thunderlord VI-VII
+ENCHANTMENT_THUNDERLORD_6,Thunderlord VI
+ENCHANTMENT_THUNDERLORD_7,Thunderlord VII
+
+_enchantment_titan_killer,Titan Killer V
+ENCHANTMENT_TITAN_KILLER_5,Titan Killer V
+
+_enchantment_triple_strike,Triple Strike V
+ENCHANTMENT_TRIPLE_STRIKE_5,Triple Strike V
+
+_enchantment_true_protection,True Protection I
+ENCHANTMENT_TRUE_PROTECTION_1,True Protection I
+
+_enchantment_turbo_cacti,Turbo Cacti I-V
+ENCHANTMENT_TURBO_CACTI_1,Turbo Cacti I
+ENCHANTMENT_TURBO_CACTI_2,Turbo Cacti II
+ENCHANTMENT_TURBO_CACTI_3,Turbo Cacti III
+ENCHANTMENT_TURBO_CACTI_4,Turbo Cacti IV
+ENCHANTMENT_TURBO_CACTI_5,Turbo Cacti V
+
+_enchantment_turbo_cane,Turbo Cane I-V
+ENCHANTMENT_TURBO_CANE_1,Turbo Cane I
+ENCHANTMENT_TURBO_CANE_2,Turbo Cane II
+ENCHANTMENT_TURBO_CANE_3,Turbo Cane III
+ENCHANTMENT_TURBO_CANE_4,Turbo Cane IV
+ENCHANTMENT_TURBO_CANE_5,Turbo Cane V
+
+_enchantment_turbo_carrot,Turbo Carrot I-V
+ENCHANTMENT_TURBO_CARROT_1,Turbo Carrot I
+ENCHANTMENT_TURBO_CARROT_2,Turbo Carrot II
+ENCHANTMENT_TURBO_CARROT_3,Turbo Carrot III
+ENCHANTMENT_TURBO_CARROT_4,Turbo Carrot IV
+ENCHANTMENT_TURBO_CARROT_5,Turbo Carrot V
+
+_enchantment_turbo_cocoa,Turbo Cocoa I-V
+ENCHANTMENT_TURBO_COCOA_1,Turbo Cocoa I
+ENCHANTMENT_TURBO_COCOA_2,Turbo Cocoa II
+ENCHANTMENT_TURBO_COCOA_3,Turbo Cocoa III
+ENCHANTMENT_TURBO_COCOA_4,Turbo Cocoa IV
+ENCHANTMENT_TURBO_COCOA_5,Turbo Cocoa V
+
+_enchantment_turbo_melon,Turbo Melon I-V
+ENCHANTMENT_TURBO_MELON_1,Turbo Melon I
+ENCHANTMENT_TURBO_MELON_2,Turbo Melon II
+ENCHANTMENT_TURBO_MELON_3,Turbo Melon III
+ENCHANTMENT_TURBO_MELON_4,Turbo Melon IV
+ENCHANTMENT_TURBO_MELON_5,Turbo Melon V
+
+_enchantment_turbo_mushrooms,Turbo Mushrooms I-V
+ENCHANTMENT_TURBO_MUSHROOMS_1,Turbo Mushrooms I
+ENCHANTMENT_TURBO_MUSHROOMS_2,Turbo Mushrooms II
+ENCHANTMENT_TURBO_MUSHROOMS_3,Turbo Mushrooms III
+ENCHANTMENT_TURBO_MUSHROOMS_4,Turbo Mushrooms IV
+ENCHANTMENT_TURBO_MUSHROOMS_5,Turbo Mushrooms V
+
+_enchantment_turbo_potato,Turbo Potato I-V
+ENCHANTMENT_TURBO_POTATO_1,Turbo Potato I
+ENCHANTMENT_TURBO_POTATO_2,Turbo Potato II
+ENCHANTMENT_TURBO_POTATO_3,Turbo Potato III
+ENCHANTMENT_TURBO_POTATO_4,Turbo Potato IV
+ENCHANTMENT_TURBO_POTATO_5,Turbo Potato V
+
+_enchantment_turbo_pumpkin,Turbo Pumpkin I-V
+ENCHANTMENT_TURBO_PUMPKIN_1,Turbo Pumpkin I
+ENCHANTMENT_TURBO_PUMPKIN_2,Turbo Pumpkin II
+ENCHANTMENT_TURBO_PUMPKIN_3,Turbo Pumpkin III
+ENCHANTMENT_TURBO_PUMPKIN_4,Turbo Pumpkin IV
+ENCHANTMENT_TURBO_PUMPKIN_5,Turbo Pumpkin V
+
+_enchantment_turbo_warts,Turbo Warts I-V
+ENCHANTMENT_TURBO_WARTS_1,Turbo Warts I
+ENCHANTMENT_TURBO_WARTS_2,Turbo Warts II
+ENCHANTMENT_TURBO_WARTS_3,Turbo Warts III
+ENCHANTMENT_TURBO_WARTS_4,Turbo Warts IV
+ENCHANTMENT_TURBO_WARTS_5,Turbo Warts V
+
+_enchantment_turbo_wheat,Turbo Wheat I-V
+ENCHANTMENT_TURBO_WHEAT_1,Turbo Wheat I
+ENCHANTMENT_TURBO_WHEAT_2,Turbo Wheat II
+ENCHANTMENT_TURBO_WHEAT_3,Turbo Wheat III
+ENCHANTMENT_TURBO_WHEAT_4,Turbo Wheat IV
+ENCHANTMENT_TURBO_WHEAT_5,Turbo Wheat V
+
+_enchantment_vampirism,Vampirism VI
+ENCHANTMENT_VAMPIRISM_6,Vampirism VI
+
+_enchantment_venomous,Venomous VI
+ENCHANTMENT_VENOMOUS_6,Venomous VI
+
+_enchantment_vicious,Vicious III-V
+ENCHANTMENT_VICIOUS_3,Vicious III
+ENCHANTMENT_VICIOUS_4,Vicious IV
+ENCHANTMENT_VICIOUS_5,Vicious V
+
+C:\Users\kate\Desktop>node conv.js
+
+_enchantment_angler,Angler VI
+ENCHANTMENT_ANGLER_6,Angler VI
+
+_enchantment_bane_of_arthropods,Bane Of Arthropods VI-VII
+ENCHANTMENT_BANE_OF_ARTHROPODS_6,Bane Of Arthropods VI
+ENCHANTMENT_BANE_OF_ARTHROPODS_7,Bane Of Arthropods VII
+
+_enchantment_big_brain,Big Brain III-V
+ENCHANTMENT_BIG_BRAIN_3,Big Brain III
+ENCHANTMENT_BIG_BRAIN_4,Big Brain IV
+ENCHANTMENT_BIG_BRAIN_5,Big Brain V
+
+_enchantment_blast_protection,Blast Protection VI-VII
+ENCHANTMENT_BLAST_PROTECTION_6,Blast Protection VI
+ENCHANTMENT_BLAST_PROTECTION_7,Blast Protection VII
+
+_enchantment_blessing,Blessing VI
+ENCHANTMENT_BLESSING_6,Blessing VI
+
+_enchantment_caynne,Caynne I-V
+ENCHANTMENT_CAYNNE_1,Caynne I
+ENCHANTMENT_CAYNNE_2,Caynne II
+ENCHANTMENT_CAYNNE_3,Caynne III
+ENCHANTMENT_CAYNNE_4,Caynne IV
+ENCHANTMENT_CAYNNE_5,Caynne V
+
+_enchantment_champion,Champion I-X
+ENCHANTMENT_CHAMPION_1,Champion I
+ENCHANTMENT_CHAMPION_2,Champion II
+ENCHANTMENT_CHAMPION_3,Champion III
+ENCHANTMENT_CHAMPION_4,Champion IV
+ENCHANTMENT_CHAMPION_5,Champion V
+ENCHANTMENT_CHAMPION_6,Champion VI
+ENCHANTMENT_CHAMPION_7,Champion VII
+ENCHANTMENT_CHAMPION_8,Champion VIII
+ENCHANTMENT_CHAMPION_9,Champion IX
+ENCHANTMENT_CHAMPION_10,Champion X
+
+_enchantment_chance,Chance IV-V
+ENCHANTMENT_CHANCE_4,Chance IV
+ENCHANTMENT_CHANCE_5,Chance V
+
+_enchantment_charm,Charm I-V
+ENCHANTMENT_CHARM_1,Charm I
+ENCHANTMENT_CHARM_2,Charm II
+ENCHANTMENT_CHARM_3,Charm III
+ENCHANTMENT_CHARM_4,Charm IV
+ENCHANTMENT_CHARM_5,Charm V
+
+_enchantment_cleave,Cleave VI
+ENCHANTMENT_CLEAVE_6,Cleave VI
+
+_enchantment_compact,Compact I
+ENCHANTMENT_COMPACT_1,Compact I
+
+_enchantment_corruption,Corruption I-V
+ENCHANTMENT_CORRUPTION_1,Corruption I
+ENCHANTMENT_CORRUPTION_2,Corruption II
+ENCHANTMENT_CORRUPTION_3,Corruption III
+ENCHANTMENT_CORRUPTION_4,Corruption IV
+ENCHANTMENT_CORRUPTION_5,Corruption V
+
+_enchantment_counter-strike,Counter-Strike III-V
+ENCHANTMENT_COUNTER-STRIKE_3,Counter-Strike III
+ENCHANTMENT_COUNTER-STRIKE_4,Counter-Strike IV
+ENCHANTMENT_COUNTER-STRIKE_5,Counter-Strike V
+
+_enchantment_critical,Critical VI-VII
+ENCHANTMENT_CRITICAL_6,Critical VI
+ENCHANTMENT_CRITICAL_7,Critical VII
+
+_enchantment_cubism,Cubism VI
+ENCHANTMENT_CUBISM_6,Cubism VI
+
+_enchantment_cultivating,Cultivating I
+ENCHANTMENT_CULTIVATING_1,Cultivating I
+
+_enchantment_delicate,Delicate V
+ENCHANTMENT_DELICATE_5,Delicate V
+
+_enchantment_dragon_hunter,Dragon Hunter I-V
+ENCHANTMENT_DRAGON_HUNTER_1,Dragon Hunter I
+ENCHANTMENT_DRAGON_HUNTER_2,Dragon Hunter II
+ENCHANTMENT_DRAGON_HUNTER_3,Dragon Hunter III
+ENCHANTMENT_DRAGON_HUNTER_4,Dragon Hunter IV
+ENCHANTMENT_DRAGON_HUNTER_5,Dragon Hunter V
+
+_enchantment_ender_slayer,Ender Slayer VI-VII
+ENCHANTMENT_ENDER_SLAYER_6,Ender Slayer VI
+ENCHANTMENT_ENDER_SLAYER_7,Ender Slayer VII
+
+_enchantment_execute,Execute VI
+ENCHANTMENT_EXECUTE_6,Execute VI
+
+_enchantment_experience,Experience IV-V
+ENCHANTMENT_EXPERIENCE_4,Experience IV
+ENCHANTMENT_EXPERIENCE_5,Experience V
+
+_enchantment_ferocious_mana,Ferocious Mana I-X
+ENCHANTMENT_FEROCIOUS_MANA_1,Ferocious Mana I
+ENCHANTMENT_FEROCIOUS_MANA_2,Ferocious Mana II
+ENCHANTMENT_FEROCIOUS_MANA_3,Ferocious Mana III
+ENCHANTMENT_FEROCIOUS_MANA_4,Ferocious Mana IV
+ENCHANTMENT_FEROCIOUS_MANA_5,Ferocious Mana V
+ENCHANTMENT_FEROCIOUS_MANA_6,Ferocious Mana VI
+ENCHANTMENT_FEROCIOUS_MANA_7,Ferocious Mana VII
+ENCHANTMENT_FEROCIOUS_MANA_8,Ferocious Mana VIII
+ENCHANTMENT_FEROCIOUS_MANA_9,Ferocious Mana IX
+ENCHANTMENT_FEROCIOUS_MANA_10,Ferocious Mana X
+
+_enchantment_fire_aspect,Fire Aspect III
+ENCHANTMENT_FIRE_ASPECT_3,Fire Aspect III
+
+_enchantment_fire_protection,Fire Protection VI-VII
+ENCHANTMENT_FIRE_PROTECTION_6,Fire Protection VI
+ENCHANTMENT_FIRE_PROTECTION_7,Fire Protection VII
+
+_enchantment_first_strike,First Strike V
+ENCHANTMENT_FIRST_STRIKE_5,First Strike V
+
+_enchantment_fortune,Fortune IV
+ENCHANTMENT_FORTUNE_4,Fortune IV
+
+_enchantment_frail,Frail VI
+ENCHANTMENT_FRAIL_6,Frail VI
+
+_enchantment_giant_killer,Giant Killer VI-VII
+ENCHANTMENT_GIANT_KILLER_6,Giant Killer VI
+ENCHANTMENT_GIANT_KILLER_7,Giant Killer VII
+
+_enchantment_growth,Growth VI-VII
+ENCHANTMENT_GROWTH_6,Growth VI
+ENCHANTMENT_GROWTH_7,Growth VII
+
+_enchantment_hardened_mana,Hardened Mana I-X
+ENCHANTMENT_HARDENED_MANA_1,Hardened Mana I
+ENCHANTMENT_HARDENED_MANA_2,Hardened Mana II
+ENCHANTMENT_HARDENED_MANA_3,Hardened Mana III
+ENCHANTMENT_HARDENED_MANA_4,Hardened Mana IV
+ENCHANTMENT_HARDENED_MANA_5,Hardened Mana V
+ENCHANTMENT_HARDENED_MANA_6,Hardened Mana VI
+ENCHANTMENT_HARDENED_MANA_7,Hardened Mana VII
+ENCHANTMENT_HARDENED_MANA_8,Hardened Mana VIII
+ENCHANTMENT_HARDENED_MANA_9,Hardened Mana IX
+ENCHANTMENT_HARDENED_MANA_10,Hardened Mana X
+
+_enchantment_harvesting,Harvesting VI
+ENCHANTMENT_HARVESTING_6,Harvesting VI
+
+_enchantment_hecatomb,Hecatomb I-X
+ENCHANTMENT_HECATOMB_1,Hecatomb I
+ENCHANTMENT_HECATOMB_2,Hecatomb II
+ENCHANTMENT_HECATOMB_3,Hecatomb III
+ENCHANTMENT_HECATOMB_4,Hecatomb IV
+ENCHANTMENT_HECATOMB_5,Hecatomb V
+ENCHANTMENT_HECATOMB_6,Hecatomb VI
+ENCHANTMENT_HECATOMB_7,Hecatomb VII
+ENCHANTMENT_HECATOMB_8,Hecatomb VIII
+ENCHANTMENT_HECATOMB_9,Hecatomb IX
+ENCHANTMENT_HECATOMB_10,Hecatomb X
+
+_enchantment_infinite_quiver,Infinite Quiver VI-X
+ENCHANTMENT_INFINITE_QUIVER_6,Infinite Quiver VI
+ENCHANTMENT_INFINITE_QUIVER_7,Infinite Quiver VII
+ENCHANTMENT_INFINITE_QUIVER_8,Infinite Quiver VIII
+ENCHANTMENT_INFINITE_QUIVER_9,Infinite Quiver IX
+ENCHANTMENT_INFINITE_QUIVER_10,Infinite Quiver X
+
+_enchantment_lethality,Lethality VI
+ENCHANTMENT_LETHALITY_6,Lethality VI
+
+_enchantment_life_steal,Life Steal IV-V
+ENCHANTMENT_LIFE_STEAL_4,Life Steal IV
+ENCHANTMENT_LIFE_STEAL_5,Life Steal V
+
+_enchantment_looting,Looting IV-V
+ENCHANTMENT_LOOTING_4,Looting IV
+ENCHANTMENT_LOOTING_5,Looting V
+
+_enchantment_luck,Luck VI-VII
+ENCHANTMENT_LUCK_6,Luck VI
+ENCHANTMENT_LUCK_7,Luck VII
+
+_enchantment_luck_of_the_sea,Luck of the Sea VI
+ENCHANTMENT_LUCK_OF_THE_SEA_6,Luck of the Sea VI
+
+_enchantment_lure,Lure VI
+ENCHANTMENT_LURE_6,Lure VI
+
+_enchantment_magnet,Magnet VI
+ENCHANTMENT_MAGNET_6,Magnet VI
+
+_enchantment_mana_steal,Mana Steal I-III
+ENCHANTMENT_MANA_STEAL_1,Mana Steal I
+ENCHANTMENT_MANA_STEAL_2,Mana Steal II
+ENCHANTMENT_MANA_STEAL_3,Mana Steal III
+
+_enchantment_mana_vampire,Mana Vampire I-X
+ENCHANTMENT_MANA_VAMPIRE_1,Mana Vampire I
+ENCHANTMENT_MANA_VAMPIRE_2,Mana Vampire II
+ENCHANTMENT_MANA_VAMPIRE_3,Mana Vampire III
+ENCHANTMENT_MANA_VAMPIRE_4,Mana Vampire IV
+ENCHANTMENT_MANA_VAMPIRE_5,Mana Vampire V
+ENCHANTMENT_MANA_VAMPIRE_6,Mana Vampire VI
+ENCHANTMENT_MANA_VAMPIRE_7,Mana Vampire VII
+ENCHANTMENT_MANA_VAMPIRE_8,Mana Vampire VIII
+ENCHANTMENT_MANA_VAMPIRE_9,Mana Vampire IX
+ENCHANTMENT_MANA_VAMPIRE_10,Mana Vampire X
+
+_enchantment_overload,Overload I-V
+ENCHANTMENT_OVERLOAD_1,Overload I
+ENCHANTMENT_OVERLOAD_2,Overload II
+ENCHANTMENT_OVERLOAD_3,Overload III
+ENCHANTMENT_OVERLOAD_4,Overload IV
+ENCHANTMENT_OVERLOAD_5,Overload V
+
+_enchantment_power,Power VI-VII
+ENCHANTMENT_POWER_6,Power VI
+ENCHANTMENT_POWER_7,Power VII
+
+_enchantment_pristine,Pristine I-V
+ENCHANTMENT_PRISTINE_1,Pristine I
+ENCHANTMENT_PRISTINE_2,Pristine II
+ENCHANTMENT_PRISTINE_3,Pristine III
+ENCHANTMENT_PRISTINE_4,Pristine IV
+ENCHANTMENT_PRISTINE_5,Pristine V
+
+_enchantment_projectile_protection,Projectile Protection VI-VII
+ENCHANTMENT_PROJECTILE_PROTECTION_6,Projectile Protection VI
+ENCHANTMENT_PROJECTILE_PROTECTION_7,Projectile Protection VII
+
+_enchantment_prosecute,Prosecute VI
+ENCHANTMENT_PROSECUTE_6,Prosecute VI
+
+_enchantment_prosperity,Prosperity I-V
+ENCHANTMENT_PROSPERITY_1,Prosperity I
+ENCHANTMENT_PROSPERITY_2,Prosperity II
+ENCHANTMENT_PROSPERITY_3,Prosperity III
+ENCHANTMENT_PROSPERITY_4,Prosperity IV
+ENCHANTMENT_PROSPERITY_5,Prosperity V
+
+_enchantment_protection,Protection VI-VII
+ENCHANTMENT_PROTECTION_6,Protection VI
+ENCHANTMENT_PROTECTION_7,Protection VII
+
+_enchantment_rejuvenate,Rejuvenate I-V
+ENCHANTMENT_REJUVENATE_1,Rejuvenate I
+ENCHANTMENT_REJUVENATE_2,Rejuvenate II
+ENCHANTMENT_REJUVENATE_3,Rejuvenate III
+ENCHANTMENT_REJUVENATE_4,Rejuvenate IV
+ENCHANTMENT_REJUVENATE_5,Rejuvenate V
+
+_enchantment_replenish,Replenish I
+
+_enchantment_respite,Respite I-V
+ENCHANTMENT_RESPITE_1,Respite I
+ENCHANTMENT_RESPITE_2,Respite II
+ENCHANTMENT_RESPITE_3,Respite III
+ENCHANTMENT_RESPITE_4,Respite IV
+ENCHANTMENT_RESPITE_5,Respite V
+
+_enchantment_scavenger,Scavenger IV-V
+ENCHANTMENT_SCAVENGER_4,Scavenger IV
+ENCHANTMENT_SCAVENGER_5,Scavenger V
+
+_enchantment_sharpness,Sharpness VI-VII
+ENCHANTMENT_SHARPNESS_6,Sharpness VI
+ENCHANTMENT_SHARPNESS_7,Sharpness VII
+
+_enchantment_smarty_pants,Smarty Pants I-V
+ENCHANTMENT_SMARTY_PANTS_1,Smarty Pants I
+ENCHANTMENT_SMARTY_PANTS_2,Smarty Pants II
+ENCHANTMENT_SMARTY_PANTS_3,Smarty Pants III
+ENCHANTMENT_SMARTY_PANTS_4,Smarty Pants IV
+ENCHANTMENT_SMARTY_PANTS_5,Smarty Pants V
+
+_enchantment_smite,Smite VI-VII
+ENCHANTMENT_SMITE_6,Smite VI
+ENCHANTMENT_SMITE_7,Smite VII
+
+_enchantment_smoldering,Smoldering I-V
+ENCHANTMENT_SMOLDERING_1,Smoldering I
+ENCHANTMENT_SMOLDERING_2,Smoldering II
+ENCHANTMENT_SMOLDERING_3,Smoldering III
+ENCHANTMENT_SMOLDERING_4,Smoldering IV
+ENCHANTMENT_SMOLDERING_5,Smoldering V
+
+_enchantment_snipe,Snipe IV
+ENCHANTMENT_SNIPE_4,Snipe IV
+
+_enchantment_spiked_hook,Spiked Hook VI
+ENCHANTMENT_SPIKED_HOOK_6,Spiked Hook VI
+
+_enchantment_strong_mana,Strong Mana I-X
+ENCHANTMENT_STRONG_MANA_1,Strong Mana I
+ENCHANTMENT_STRONG_MANA_2,Strong Mana II
+ENCHANTMENT_STRONG_MANA_3,Strong Mana III
+ENCHANTMENT_STRONG_MANA_4,Strong Mana IV
+ENCHANTMENT_STRONG_MANA_5,Strong Mana V
+ENCHANTMENT_STRONG_MANA_6,Strong Mana VI
+ENCHANTMENT_STRONG_MANA_7,Strong Mana VII
+ENCHANTMENT_STRONG_MANA_8,Strong Mana VIII
+ENCHANTMENT_STRONG_MANA_9,Strong Mana IX
+ENCHANTMENT_STRONG_MANA_10,Strong Mana X
+
+_enchantment_sugar_rush,Sugar Rush I-III
+ENCHANTMENT_SUGAR_RUSH_1,Sugar Rush I
+ENCHANTMENT_SUGAR_RUSH_2,Sugar Rush II
+ENCHANTMENT_SUGAR_RUSH_3,Sugar Rush III
+
+_enchantment_syphon,Syphon IV-V
+ENCHANTMENT_SYPHON_4,Syphon IV
+ENCHANTMENT_SYPHON_5,Syphon V
+
+_enchantment_tabasco,Tabasco I-III
+ENCHANTMENT_TABASCO_1,Tabasco I
+ENCHANTMENT_TABASCO_2,Tabasco II
+ENCHANTMENT_TABASCO_3,Tabasco III
+
+_enchantment_thunderbolt,Thunderbolt VI
+ENCHANTMENT_THUNDERBOLT_6,Thunderbolt VI
+
+_enchantment_thunderlord,Thunderlord VI-VII
+ENCHANTMENT_THUNDERLORD_6,Thunderlord VI
+ENCHANTMENT_THUNDERLORD_7,Thunderlord VII
+
+_enchantment_titan_killer,Titan Killer V
+ENCHANTMENT_TITAN_KILLER_5,Titan Killer V
+
+_enchantment_triple_strike,Triple Strike V
+ENCHANTMENT_TRIPLE_STRIKE_5,Triple Strike V
+
+_enchantment_true_protection,True Protection I
+ENCHANTMENT_TRUE_PROTECTION_1,True Protection I
+
+_enchantment_turbo_cacti,Turbo Cacti I-V
+ENCHANTMENT_TURBO_CACTI_1,Turbo Cacti I
+ENCHANTMENT_TURBO_CACTI_2,Turbo Cacti II
+ENCHANTMENT_TURBO_CACTI_3,Turbo Cacti III
+ENCHANTMENT_TURBO_CACTI_4,Turbo Cacti IV
+ENCHANTMENT_TURBO_CACTI_5,Turbo Cacti V
+
+_enchantment_turbo_cane,Turbo Cane I-V
+ENCHANTMENT_TURBO_CANE_1,Turbo Cane I
+ENCHANTMENT_TURBO_CANE_2,Turbo Cane II
+ENCHANTMENT_TURBO_CANE_3,Turbo Cane III
+ENCHANTMENT_TURBO_CANE_4,Turbo Cane IV
+ENCHANTMENT_TURBO_CANE_5,Turbo Cane V
+
+_enchantment_turbo_carrot,Turbo Carrot I-V
+ENCHANTMENT_TURBO_CARROT_1,Turbo Carrot I
+ENCHANTMENT_TURBO_CARROT_2,Turbo Carrot II
+ENCHANTMENT_TURBO_CARROT_3,Turbo Carrot III
+ENCHANTMENT_TURBO_CARROT_4,Turbo Carrot IV
+ENCHANTMENT_TURBO_CARROT_5,Turbo Carrot V
+
+_enchantment_turbo_cocoa,Turbo Cocoa I-V
+ENCHANTMENT_TURBO_COCOA_1,Turbo Cocoa I
+ENCHANTMENT_TURBO_COCOA_2,Turbo Cocoa II
+ENCHANTMENT_TURBO_COCOA_3,Turbo Cocoa III
+ENCHANTMENT_TURBO_COCOA_4,Turbo Cocoa IV
+ENCHANTMENT_TURBO_COCOA_5,Turbo Cocoa V
+
+_enchantment_turbo_melon,Turbo Melon I-V
+ENCHANTMENT_TURBO_MELON_1,Turbo Melon I
+ENCHANTMENT_TURBO_MELON_2,Turbo Melon II
+ENCHANTMENT_TURBO_MELON_3,Turbo Melon III
+ENCHANTMENT_TURBO_MELON_4,Turbo Melon IV
+ENCHANTMENT_TURBO_MELON_5,Turbo Melon V
+
+_enchantment_turbo_mushrooms,Turbo Mushrooms I-V
+ENCHANTMENT_TURBO_MUSHROOMS_1,Turbo Mushrooms I
+ENCHANTMENT_TURBO_MUSHROOMS_2,Turbo Mushrooms II
+ENCHANTMENT_TURBO_MUSHROOMS_3,Turbo Mushrooms III
+ENCHANTMENT_TURBO_MUSHROOMS_4,Turbo Mushrooms IV
+ENCHANTMENT_TURBO_MUSHROOMS_5,Turbo Mushrooms V
+
+_enchantment_turbo_potato,Turbo Potato I-V
+ENCHANTMENT_TURBO_POTATO_1,Turbo Potato I
+ENCHANTMENT_TURBO_POTATO_2,Turbo Potato II
+ENCHANTMENT_TURBO_POTATO_3,Turbo Potato III
+ENCHANTMENT_TURBO_POTATO_4,Turbo Potato IV
+ENCHANTMENT_TURBO_POTATO_5,Turbo Potato V
+
+_enchantment_turbo_pumpkin,Turbo Pumpkin I-V
+ENCHANTMENT_TURBO_PUMPKIN_1,Turbo Pumpkin I
+ENCHANTMENT_TURBO_PUMPKIN_2,Turbo Pumpkin II
+ENCHANTMENT_TURBO_PUMPKIN_3,Turbo Pumpkin III
+ENCHANTMENT_TURBO_PUMPKIN_4,Turbo Pumpkin IV
+ENCHANTMENT_TURBO_PUMPKIN_5,Turbo Pumpkin V
+
+_enchantment_turbo_warts,Turbo Warts I-V
+ENCHANTMENT_TURBO_WARTS_1,Turbo Warts I
+ENCHANTMENT_TURBO_WARTS_2,Turbo Warts II
+ENCHANTMENT_TURBO_WARTS_3,Turbo Warts III
+ENCHANTMENT_TURBO_WARTS_4,Turbo Warts IV
+ENCHANTMENT_TURBO_WARTS_5,Turbo Warts V
+
+_enchantment_turbo_wheat,Turbo Wheat I-V
+ENCHANTMENT_TURBO_WHEAT_1,Turbo Wheat I
+ENCHANTMENT_TURBO_WHEAT_2,Turbo Wheat II
+ENCHANTMENT_TURBO_WHEAT_3,Turbo Wheat III
+ENCHANTMENT_TURBO_WHEAT_4,Turbo Wheat IV
+ENCHANTMENT_TURBO_WHEAT_5,Turbo Wheat V
+
+_enchantment_vampirism,Vampirism VI
+ENCHANTMENT_VAMPIRISM_6,Vampirism VI
+
+_enchantment_venomous,Venomous VI
+ENCHANTMENT_VENOMOUS_6,Venomous VI
+
+_enchantment_vicious,Vicious III-V
+ENCHANTMENT_VICIOUS_3,Vicious III
+ENCHANTMENT_VICIOUS_4,Vicious IV
+ENCHANTMENT_VICIOUS_5,Vicious V
+
+_oddities_ultimate_enchanted_books,Oddities - Ultimate Enchantments
+
+_enchantment_ultimate_bank,Bank I-V
+ENCHANTMENT_ULTIMATE_BANK_1,Bank I
+ENCHANTMENT_ULTIMATE_BANK_2,Bank II
+ENCHANTMENT_ULTIMATE_BANK_3,Bank III
+ENCHANTMENT_ULTIMATE_BANK_4,Bank IV
+ENCHANTMENT_ULTIMATE_BANK_5,Bank V
+
+_enchantment_ultimate_chimera,Chimera I-V
+ENCHANTMENT_ULTIMATE_CHIMERA_1,Chimera I
+ENCHANTMENT_ULTIMATE_CHIMERA_2,Chimera II
+ENCHANTMENT_ULTIMATE_CHIMERA_3,Chimera III
+ENCHANTMENT_ULTIMATE_CHIMERA_4,Chimera IV
+ENCHANTMENT_ULTIMATE_CHIMERA_5,Chimera V
+
+_enchantment_ultimate_combo,Combo I-V
+ENCHANTMENT_ULTIMATE_COMBO_1,Combo I
+ENCHANTMENT_ULTIMATE_COMBO_2,Combo II
+ENCHANTMENT_ULTIMATE_COMBO_3,Combo III
+ENCHANTMENT_ULTIMATE_COMBO_4,Combo IV
+ENCHANTMENT_ULTIMATE_COMBO_5,Combo V
+
+_enchantment_ultimate_duplex,Duplex I-V
+ENCHANTMENT_ULTIMATE_DUPLEX_1,Duplex I
+ENCHANTMENT_ULTIMATE_DUPLEX_2,Duplex II
+ENCHANTMENT_ULTIMATE_DUPLEX_3,Duplex III
+ENCHANTMENT_ULTIMATE_DUPLEX_4,Duplex IV
+ENCHANTMENT_ULTIMATE_DUPLEX_5,Duplex V
+
+_enchantment_ultimate_fatal_tempo,Fatal Tempo I-V
+ENCHANTMENT_ULTIMATE_FATAL_TEMPO_1,Fatal Tempo I
+ENCHANTMENT_ULTIMATE_FATAL_TEMPO_2,Fatal Tempo II
+ENCHANTMENT_ULTIMATE_FATAL_TEMPO_3,Fatal Tempo III
+ENCHANTMENT_ULTIMATE_FATAL_TEMPO_4,Fatal Tempo IV
+ENCHANTMENT_ULTIMATE_FATAL_TEMPO_5,Fatal Tempo V
+
+_enchantment_ultimate_flash,Flash I-V
+ENCHANTMENT_ULTIMATE_FLASH_1,Flash I
+ENCHANTMENT_ULTIMATE_FLASH_2,Flash II
+ENCHANTMENT_ULTIMATE_FLASH_3,Flash III
+ENCHANTMENT_ULTIMATE_FLASH_4,Flash IV
+ENCHANTMENT_ULTIMATE_FLASH_5,Flash V
+
+_enchantment_ultimate_habanero_tactics,Habanero Tactics IV-V
+ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_4,Habanero Tactics IV
+ENCHANTMENT_ULTIMATE_HABANERO_TACTICS_5,Habanero Tactics V
+
+_enchantment_ultimate_inferno,Inferno I-V
+ENCHANTMENT_ULTIMATE_INFERNO_1,Inferno I
+ENCHANTMENT_ULTIMATE_INFERNO_2,Inferno II
+ENCHANTMENT_ULTIMATE_INFERNO_3,Inferno III
+ENCHANTMENT_ULTIMATE_INFERNO_4,Inferno IV
+ENCHANTMENT_ULTIMATE_INFERNO_5,Inferno V
+
+_enchantment_ultimate_ultimate_jerry,Ultimate Jerry I-V
+ENCHANTMENT_ULTIMATE_ULTIMATE_JERRY_1,Ultimate Jerry I
+ENCHANTMENT_ULTIMATE_ULTIMATE_JERRY_2,Ultimate Jerry II
+ENCHANTMENT_ULTIMATE_ULTIMATE_JERRY_3,Ultimate Jerry III
+ENCHANTMENT_ULTIMATE_ULTIMATE_JERRY_4,Ultimate Jerry IV
+ENCHANTMENT_ULTIMATE_ULTIMATE_JERRY_5,Ultimate Jerry V
+
+_enchantment_ultimate_last_stand,Last Stand I-V
+ENCHANTMENT_ULTIMATE_LAST_STAND_1,Last Stand I
+ENCHANTMENT_ULTIMATE_LAST_STAND_2,Last Stand II
+ENCHANTMENT_ULTIMATE_LAST_STAND_3,Last Stand III
+ENCHANTMENT_ULTIMATE_LAST_STAND_4,Last Stand IV
+ENCHANTMENT_ULTIMATE_LAST_STAND_5,Last Stand V
+
+_enchantment_ultimate_legion,Legion I-V
+ENCHANTMENT_ULTIMATE_LEGION_1,Legion I
+ENCHANTMENT_ULTIMATE_LEGION_2,Legion II
+ENCHANTMENT_ULTIMATE_LEGION_3,Legion III
+ENCHANTMENT_ULTIMATE_LEGION_4,Legion IV
+ENCHANTMENT_ULTIMATE_LEGION_5,Legion V
+
+_enchantment_ultimate_no_pain_no_gain,No Pain No Gain I-V
+ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_1,No Pain No Gain I
+ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_2,No Pain No Gain II
+ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_3,No Pain No Gain III
+ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_4,No Pain No Gain IV
+ENCHANTMENT_ULTIMATE_NO_PAIN_NO_GAIN_5,No Pain No Gain V
+
+_enchantment_ultimate_one_for_all,One For All
+ENCHANTMENT_ULTIMATE_ONE_FOR_ALL_1,One For All I
+
+_enchantment_ultimate_rend,Rend I-V
+ENCHANTMENT_ULTIMATE_REND_1,Rend I
+ENCHANTMENT_ULTIMATE_REND_2,Rend II
+ENCHANTMENT_ULTIMATE_REND_3,Rend III
+ENCHANTMENT_ULTIMATE_REND_4,Rend IV
+ENCHANTMENT_ULTIMATE_REND_5,Rend V
+
+_enchantment_ultimate_soul_eater,Soul Eater I
+ENCHANTMENT_ULTIMATE_SOUL_EATER_1,Soul Eater I
+ENCHANTMENT_ULTIMATE_SOUL_EATER_2,Soul Eater II
+ENCHANTMENT_ULTIMATE_SOUL_EATER_3,Soul Eater III
+ENCHANTMENT_ULTIMATE_SOUL_EATER_4,Soul Eater IV
+ENCHANTMENT_ULTIMATE_SOUL_EATER_5,Soul Eater V
+
+_enchantment_ultimate_swarm,Swarm I-V
+ENCHANTMENT_ULTIMATE_SWARM_1,Swarm I
+ENCHANTMENT_ULTIMATE_SWARM_2,Swarm II
+ENCHANTMENT_ULTIMATE_SWARM_3,Swarm III
+ENCHANTMENT_ULTIMATE_SWARM_4,Swarm IV
+ENCHANTMENT_ULTIMATE_SWARM_5,Swarm V
+
+_enchantment_ultimate_wisdom,Wisdom I-V
+ENCHANTMENT_ULTIMATE_WISDOM_1,Wisdom I
+ENCHANTMENT_ULTIMATE_WISDOM_2,Wisdom II
+ENCHANTMENT_ULTIMATE_WISDOM_3,Wisdom III
+ENCHANTMENT_ULTIMATE_WISDOM_4,Wisdom IV
+ENCHANTMENT_ULTIMATE_WISDOM_5,Wisdom V
+
+_enchantment_ultimate_wise,Ultimate Wise I-V
+ENCHANTMENT_ULTIMATE_WISE_1,Ultimate Wise I
+ENCHANTMENT_ULTIMATE_WISE_2,Ultimate Wise II
+ENCHANTMENT_ULTIMATE_WISE_3,Ultimate Wise III
+ENCHANTMENT_ULTIMATE_WISE_4,Ultimate Wise IV
+ENCHANTMENT_ULTIMATE_WISE_5,Ultimate Wise V
+
+_combat,Combat
+_rotten_flesh,Rotten Flesh
+ROTTEN_FLESH,Rotten Flesh
+ENCHANTED_ROTTEN_FLESH,Enchanted Rotten Flesh
+
+_bone,Bone
+BONE,Bone
+ENCHANTED_BONE,Enchanted Bone
+ENCHANTED_BONE_BLOCK,Enchanted Bone Block
+
+_arachnids,Arachnids
+STRING,String
+ENCHANTED_STRING,Enchanted String
+SPIDER_EYE,Spider Eye
+ENCHANTED_SPIDER_EYE,Enchanted Spider Eye
+ENCHANTED_FERMENTED_SPIDER_EYE,Enchanted Fermented Spider Eye
+SOUL_STRING,Soul String
+ARACHNE_KEEPER_FRAGMENT,Arachne's Calling
+
+_gunpowder,Gunpowder
+SULPHUR,Gunpowder
+ENCHANTED_GUNPOWDER,Enchanted Gunpowder
+ENCHANTED_FIREWORK_ROCKET,Enchanted Firework
+
+_ender_pearl,Ender Pearl
+ENDER_PEARL,Ender Pearl
+ENCHANTED_ENDER_PEARL,Enchanted Ender Pearl
+ENCHANTED_EYE_OF_ENDER,Enchanted Eye of Ender
+ABSOLUTE_ENDER_PEARL,Absolute Ender Pearl
+
+_ghast_tear,Ghast Tear
+GHAST_TEAR,Ghast Tear
+ENCHANTED_GHAST_TEAR,Enchanted Ghast Tear
+
+_slime_drops,Slime Drops
+SLIME_BALL,Slimeball
+ENCHANTED_SLIME_BALL,Enchanted Slimeball
+ENCHANTED_SLIME_BLOCK,Enchanted Slime Block
+MAGMA_CREAM,Magma Cream
+ENCHANTED_MAGMA_CREAM,Enchanted Magman Cream
+SLUDGE_JUICE,Sludge Juice
+YOGGIE,Yoggie
+
+_blaze_rod,Blaze Rod
+BLAZE_ROD,Blaze Rod
+ENCHANTED_BLAZE_POWDER,Enchanted Blaze Powder
+ENCHANTED_BLAZE_ROD,Enchanted Blaze Rod
+
+_mythological,Mythological
+GRIFFIN_FEATHER,Griffin Feather
+DAEDALUS_STICK,Daedalus Stick
+ANCIENT_CLAW,Ancient Claw
+ENCHANTED_ANCIENT_CLAW,Enchanted Ancient Claw
+
+_revenant_horror,Revenant Horror
+REVENANT_FLESH,Revenant Flesh
+REVENANT_VISCERA,Revenant Viscera
+
+_tarantula_broodfather,Tarantula Broodfather
+TARANTULA_WEB,Tarantula Web
+TARANTULA_SILK,Tarantula Silk
+
+_sven_packmaster,Sven Packmaster
+WOLF_TOOTH,Wolf Tooth
+GOLDEN_TOOTH,Golden Tooth
+
+_voidgloom_seraph,Voidgloom Seraph
+NULL_SPHERE,Null Sphere
+NULL_OVOID,Null Ovoid
+NULL_ATOM,Null Atom
+RAW_SOULFLOW,Raw Soulflow
+SOULFLOW,Soulflow
+
+_inferno_demonlord,Inferno Demonlord
+DERELICT_ASHE,Derelict Ashe
+AMALGAMATED_CRIMSONITE,Amalgamated Crimsonite
+MOLTEN_POWDER,Molten Powder
+BLAZE_ROD_DISTILLATE,Blaze Rod Distillate
+CRUDE_GABAGOOL_DISTILLATE,Gabagool Distillate
+GLOWSTONE_DUST_DISTILLATE,Glowstone Distillate
+MAGMA_CREAM_DISTILLATE,Magama Cream Distillate
+NETHER_STALK_DISTILLATE,Nether Wart Distillate
+CRUDE_GABAGOOL,Crude Gabagool
+FUEL_GABAGOOL,Fuel Gabagool
+HEAVY_GABAGOOL,Heavy Gabagool
+HYPERGOLIC_GABAGOOL,Hypergolic Gabagool
+CHILI_PEPPER,Chili Pepper
+INFERNO_VERTEX,Inferno Vertex
+INFERNO_APEX,Inferno Apex
+REAPER_PEPPER,Reaper Pepper
+
+_goblin_eggs,Goblin Eggs
+GOBLIN_EGG,Goblin Egg
+GOBLIN_EGG_RED,Red Goblin Egg
+GOBLIN_EGG_BLUE,Blue Goblin Egg
+GOBLIN_EGG_YELLOW,Yellow Goblin Egg
+GOBLIN_EGG_GREEN,Green Goblin Egg
